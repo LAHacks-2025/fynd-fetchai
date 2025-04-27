@@ -1,0 +1,178 @@
+[
+    {
+      "id": "b1",
+      "name": "Budweiser",
+      "price": 9.00,
+      "description": "A classic American lager with a crisp, clean taste and smooth finish.",
+      "images": [
+        "https://as2.ftcdn.net/v2/jpg/03/98/78/43/1000_F_398784300_Zf85OVP4Ok3Gif6UMm1hhDCjg9sEBySa.jpg"
+      ],
+      "reviews": [
+        {
+          "id": "r1",
+          "userId": "u1",
+          "rating": 4.0,
+          "comment": "Classic American beer",
+          "date": "2024-03-15"
+        }
+      ],
+      "attributes": {
+        "alcohol_by_volume": "5.0%",
+        "ingredients": "Water, barley malt, rice, hops, yeast"
+      }
+    },
+    {
+      "id": "c1",
+      "name": "Corona Extra",
+      "price": 11.00,
+      "description": "A light, refreshing pale lager perfect with a slice of lime.",
+      "images": [
+        "https://as2.ftcdn.net/v2/jpg/08/12/28/95/1000_F_812289523_u1HweF1pvWjU0BvRLN3eJboHh4LCmnke.webp"
+      ],
+      "reviews": [
+        {
+          "id": "r2",
+          "userId": "u2",
+          "rating": 4.3,
+          "comment": "Perfect summer beer",
+          "date": "2024-03-10"
+        }
+      ],
+      "attributes": {
+        "alcohol_by_volume": "4.6%",
+        "ingredients": "Water, barley malt, corn, hops, yeast"
+      }
+    },
+    {
+      "id": "h1",
+      "name": "Heineken",
+      "price": 12.00,
+      "description": "A premium Dutch lager with balanced bitterness and smooth finish.",
+      "images": [
+        "https://as2.ftcdn.net/v2/jpg/03/98/78/43/1000_F_398784300_Zf85OVP4Ok3Gif6UMm1hhDCjg9sEBySa.jpg"
+      ],
+      "reviews": [
+        {
+          "id": "r3",
+          "userId": "u3",
+          "rating": 4.5,
+          "comment": "Premium quality beer",
+          "date": "2024-03-12"
+        }
+      ],
+      "attributes": {
+        "alcohol_by_volume": "5.0%",
+        "ingredients": "Water, malted barley, hops, yeast"
+      }
+    },
+    {
+      "id": "h2",
+      "name": "Hoegaarden",
+      "price": 11.00,
+      "description": "Belgian white ale with hints of orange peel and coriander.",
+      "images": [
+        "https://as2.ftcdn.net/v2/jpg/05/17/31/77/1000_F_517317731_FqHg8A6QSSWquoQiXvgT1bFZOjHCitBQ.jpg"
+      ],
+      "reviews": [
+        {
+          "id": "r4",
+          "userId": "u4",
+          "rating": 4.6,
+          "comment": "Unique and flavorful",
+          "date": "2024-03-14"
+        }
+      ],
+      "attributes": {
+        "alcohol_by_volume": "4.9%",
+        "ingredients": "Water, wheat, barley malt, hops, coriander, orange peel, yeast"
+      }
+    },
+    {
+      "id": "m1",
+      "name": "Modelo Especial",
+      "price": 10.00,
+      "description": "A rich, full-flavored pilsner-style lager from Mexico.",
+      "images": [
+        "https://as1.ftcdn.net/v2/jpg/05/12/85/16/1000_F_512851698_AdyiIVFEH0bsM4qwuJglEr3op4BYFtqO.jpg"
+      ],
+      "reviews": [
+        {
+          "id": "r5",
+          "userId": "u5",
+          "rating": 4.2,
+          "comment": "Great Mexican beer",
+          "date": "2024-03-11"
+        }
+      ],
+      "attributes": {
+        "alcohol_by_volume": "4.5%",
+        "ingredients": "Water, malted barley, non-malted cereals, hops"
+      }
+    },
+    {
+      "id": "c2",
+      "name": "Carlsberg",
+      "price": 10.00,
+      "description": "A well-balanced Danish pilsner with crisp and refreshing taste.",
+      "images": [
+        "https://as2.ftcdn.net/v2/jpg/04/38/06/35/1000_F_438063582_DtSvQEXtDA1diD3Oiqvp5CV8SBfPjG0n.jpg"
+      ],
+      "reviews": [
+        {
+          "id": "r6",
+          "userId": "u6",
+          "rating": 4.1,
+          "comment": "Refreshing and crisp",
+          "date": "2024-03-13"
+        }
+      ],
+      "attributes": {
+        "alcohol_by_volume": "5.0%",
+        "ingredients": "Water, malted barley, hops"
+      }
+    },
+    {
+      "id": "n1",
+      "name": "Newcastle Brown Ale",
+      "price": 11.00,
+      "description": "Smooth, easy-drinking English brown ale with a nutty flavor.",
+      "images": [
+        "https://as2.ftcdn.net/v2/jpg/03/35/34/37/1000_F_335343767_7RxCi7iZLuHSZ1Nt8vx90gCp0eO3qWAo.jpg"
+      ],
+      "reviews": [
+        {
+          "id": "r7",
+          "userId": "u7",
+          "rating": 4.3,
+          "comment": "Classic English ale",
+          "date": "2024-03-16"
+        }
+      ],
+      "attributes": {
+        "alcohol_by_volume": "4.7%",
+        "ingredients": "Water, malted barley, hops, yeast"
+      }
+    },
+    {
+      "id": "k1",
+      "name": "Kingfisher Premium Lager",
+      "price": 12.49,
+      "description": "A crisp, clean, and refreshing lager brewed with the finest Saaz hops, offering light bitterness and earthy herbal notes. Inspired by its namesake, Kingfisher celebrates the colors and vibrancy of life.",
+      "images": [
+        "https://as2.ftcdn.net/v2/jpg/03/85/47/85/1000_F_385478514_iyLq5hJ3Ggnqz1lOBIthxMZdCQsKCW0l.jpg"
+      ],
+      "reviews": [
+        {
+          "id": "r8",
+          "userId": "u8",
+          "rating": 3.0,
+          "comment": "Decent Indian lager",
+          "date": "2024-03-17"
+        }
+      ],
+      "attributes": {
+        "alcohol_by_volume": "4.8%",
+        "ingredients": "Water, malted barley, rice/maize, sugar, ethyl alcohol (generated in the process), hops, yeast, permitted natural color (INS 150c)"
+      }
+    }
+]
