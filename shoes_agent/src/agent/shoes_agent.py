@@ -1,5 +1,5 @@
 from uagents import Agent, Context, Protocol, Model
-from ..agent.models import (
+from .models import (
     Product, Review, ProductAttributes
 )
 import json
@@ -13,12 +13,12 @@ from pydantic import BaseModel
 # Initialize MongoDB
 db = MongoDB()
 
-# Create dress agent
-dress_agent = Agent(
-    name="dress_agent",
-    port=8010,
-    seed="dress_agent_seed_phrase_fynd_project",
-    endpoint=["http://localhost:8010/products"]
+# Create shoe agent
+shoe_agent = Agent(
+    name="shoe_agent",
+    port=8012,
+    seed="shoe_agent_seed_phrase_fynd_project",
+    endpoint=["http://localhost:8012/products"]
 )
 
 # Initialize data
@@ -34,24 +34,24 @@ class ProductResponse(Model):
     status: str
     timestamp: int
 
-@dress_agent.on_event("startup")
+@shoe_agent.on_event("startup")
 async def startup(ctx: Context):
-    ctx.logger.info("Dress Agent Started")
+    ctx.logger.info("Shoes Agent Started")
     ctx.logger.info(f"Agent Address: {ctx.agent.address}")
 
-@dress_agent.on_rest_post("/products", ProductRequest, ProductResponse)
+@shoe_agent.on_rest_post("/products", ProductRequest, ProductResponse)
 async def handle_product_request(ctx: Context, req: ProductRequest) -> ProductResponse:
     ctx.logger.info("Received product request")
     
     try:
         # Get all dresses from database
-        dresses = db.get_all_dresses()
-        ctx.logger.info(f"Found {len(dresses)} dresses in database")
+        shoees = db.get_all_shoees()
+        ctx.logger.info(f"Found {len(shoees)} shoees in database")
         
         # Send response
         return ProductResponse(
             type="products",
-            data=dresses,
+            data=shoees,
             status="success",
             timestamp=int(time.time())
         )
@@ -65,4 +65,4 @@ async def handle_product_request(ctx: Context, req: ProductRequest) -> ProductRe
         )
 
 if __name__ == "__main__":
-    dress_agent.run() 
+    shoe_agent.run() 

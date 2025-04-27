@@ -1,1256 +1,245 @@
-{
-    "Women's Tops": [
-        {
-            "id": "42419",
-            "name": "Gini and Jony Girls Knit White Top",
-            "price": 116.35,
-            "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/f3964f76c78edd85f4512d98b26d52e9_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r9190",
-                    "userId": "u80",
-                    "rating": 3.9,
-                    "comment": "Highly recommended!",
-                    "date": "2024-06-18"
-                },
-                {
-                    "id": "r1203",
-                    "userId": "u28",
-                    "rating": 3.4,
-                    "comment": "Good value for money.",
-                    "date": "2024-08-11"
-                }
-            ]
-        },
-        {
-            "id": "49653",
-            "name": "Mineral Women Green Top",
-            "price": 421.36,
-            "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/fe446adf94f9beb301b61bfc75a70bfa_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r5517",
-                    "userId": "u73",
-                    "rating": 3.1,
-                    "comment": "Loved it!",
-                    "date": "2024-10-12"
-                }
-            ]
-        },
-        {
-            "id": "58513",
-            "name": "Tonga Women Maroon Top",
-            "price": 308.47,
-            "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/Tonga-Women-Maroon-Top_e5cc855ba59e5640817434d45f9c088d_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r1508",
-                    "userId": "u64",
-                    "rating": 3.1,
-                    "comment": "Highly recommended!",
-                    "date": "2024-08-03"
-                }
-            ]
-        },
-        {
-            "id": "34009",
-            "name": "Gini and Jony Girls Black Top",
-            "price": 267.09,
-            "description": "A stylish and comfortable Tops perfect for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/dce310e4c15223a6c964631190263284_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r3985",
-                    "userId": "u61",
-                    "rating": 4.1,
-                    "comment": "Not bad, could be better.",
-                    "date": "2024-05-11"
-                },
-                {
-                    "id": "r2522",
-                    "userId": "u99",
-                    "rating": 4.4,
-                    "comment": "Amazing product!",
-                    "date": "2025-02-22"
-                }
-            ]
-        },
-        {
-            "id": "31782",
-            "name": "Lee Women Paula Blue Top",
-            "price": 191.45,
-            "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/5b427e7381af213df2d54a17cd193aea_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r3415",
-                    "userId": "u59",
-                    "rating": 4.0,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-09-04"
-                }
-            ]
-        },
-        {
-            "id": "40143",
-            "name": "Gini and Jony Girls Pretty Blossom Blue Top",
-            "price": 1627.76,
-            "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/fc3c1b46906d5c148c45f532d0b3ffb5_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r5392",
-                    "userId": "u54",
-                    "rating": 3.2,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-05-04"
-                },
-                {
-                    "id": "r8229",
-                    "userId": "u87",
-                    "rating": 4.2,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-11-22"
-                }
-            ]
-        },
-        {
-            "id": "21174",
-            "name": "s.Oliver Women Stripes Beige Top",
-            "price": 62.21,
-            "description": "A stylish and comfortable Tops perfect for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/5a76ef8930d8bd543d8f7e6f5383d390_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r6973",
-                    "userId": "u16",
-                    "rating": 4.2,
-                    "comment": "Amazing product!",
-                    "date": "2025-02-08"
-                },
-                {
-                    "id": "r2222",
-                    "userId": "u51",
-                    "rating": 4.3,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-11-27"
-                }
-            ]
-        },
-        {
-            "id": "23623",
-            "name": "Doodle Kids Girls Pink I love Shopping Top",
-            "price": 880.28,
-            "description": "Upgrade your wardrobe with this Topwear - Tops, designed for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/ef9685293a987f515492addd034006bf_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r9347",
-                    "userId": "u38",
-                    "rating": 3.1,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-08-24"
-                },
-                {
-                    "id": "r2573",
-                    "userId": "u10",
-                    "rating": 4.7,
-                    "comment": "Good value for money.",
-                    "date": "2024-09-22"
-                },
-                {
-                    "id": "r8105",
-                    "userId": "u80",
-                    "rating": 4.5,
-                    "comment": "Highly recommended!",
-                    "date": "2025-01-03"
-                }
-            ]
-        },
-        {
-            "id": "10401",
-            "name": "Jealous 21 Women Uaine Purple Tops",
-            "price": 84.93,
-            "description": "Experience the best of Apparel with this Tops, ideal for Fall wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/144954d20ce2e31fe6953f3e249e9a68_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r5789",
-                    "userId": "u91",
-                    "rating": 4.4,
-                    "comment": "Amazing product!",
-                    "date": "2025-02-28"
-                },
-                {
-                    "id": "r7509",
-                    "userId": "u14",
-                    "rating": 4.0,
-                    "comment": "Amazing product!",
-                    "date": "2024-06-22"
-                }
-            ]
-        },
-        {
-            "id": "37223",
-            "name": "United Colors of Benetton Women Blue Top",
-            "price": 985.03,
-            "description": "A stylish and comfortable Tops perfect for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/58c4b740c2d2e9b52c6900579c7ff2d2_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r6466",
-                    "userId": "u43",
-                    "rating": 3.0,
-                    "comment": "Good value for money.",
-                    "date": "2024-08-29"
-                },
-                {
-                    "id": "r6783",
-                    "userId": "u46",
-                    "rating": 4.4,
-                    "comment": "Perfect for daily use.",
-                    "date": "2025-03-27"
-                },
-                {
-                    "id": "r6470",
-                    "userId": "u66",
-                    "rating": 3.7,
-                    "comment": "Amazing product!",
-                    "date": "2025-04-04"
-                }
-            ]
-        }
-    ],
-    "Women's Clothes": [
-        {
-            "id": "20099",
-            "name": "Diva Women Embroided Green Kurta",
-            "price": 641.84,
-            "description": "Experience the best of Apparel with this Kurtas, ideal for Fall wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/08a0c29d2ea67ca9449aa54466f6b0a1_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r8786",
-                    "userId": "u58",
-                    "rating": 4.2,
-                    "comment": "Loved it!",
-                    "date": "2024-06-27"
-                },
-                {
-                    "id": "r3421",
-                    "userId": "u28",
-                    "rating": 4.7,
-                    "comment": "Highly recommended!",
-                    "date": "2024-05-31"
-                }
-            ]
-        },
-        {
-            "id": "28690",
-            "name": "W Women Printed Beige Kurta",
-            "price": 1661.64,
-            "description": "Experience the best of Apparel with this Kurtas, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/df0a23e732654c5e7db3888e39393e79_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r5163",
-                    "userId": "u31",
-                    "rating": 4.5,
-                    "comment": "Loved it!",
-                    "date": "2024-09-04"
-                },
-                {
-                    "id": "r7654",
-                    "userId": "u5",
-                    "rating": 3.3,
-                    "comment": "Perfect for daily use.",
-                    "date": "2025-04-14"
-                },
-                {
-                    "id": "r3829",
-                    "userId": "u43",
-                    "rating": 3.3,
-                    "comment": "Not bad, could be better.",
-                    "date": "2024-11-27"
-                }
-            ]
-        },
-        {
-            "id": "45856",
-            "name": "Vishudh Women Brown Kurta",
-            "price": 562.76,
-            "description": "Upgrade your wardrobe with this Topwear - Kurtas, designed for Ethnic.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/fee54b57fcd02b7c07d42b0918025099_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r9376",
-                    "userId": "u62",
-                    "rating": 4.8,
-                    "comment": "Loved it!",
-                    "date": "2024-07-29"
-                },
-                {
-                    "id": "r8631",
-                    "userId": "u76",
-                    "rating": 3.6,
-                    "comment": "Not bad, could be better.",
-                    "date": "2024-06-02"
-                }
-            ]
-        },
-        {
-            "id": "39716",
-            "name": "Arrow Woman Women Blue Dress",
-            "price": 361.62,
-            "description": "A stylish and comfortable Dresses perfect for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/c5b0d7c1f0308be020655bc10ca16427_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r6798",
-                    "userId": "u94",
-                    "rating": 3.3,
-                    "comment": "Highly recommended!",
-                    "date": "2024-08-01"
-                },
-                {
-                    "id": "r3738",
-                    "userId": "u49",
-                    "rating": 4.0,
-                    "comment": "Good value for money.",
-                    "date": "2024-06-16"
-                },
-                {
-                    "id": "r4215",
-                    "userId": "u22",
-                    "rating": 4.0,
-                    "comment": "Not bad, could be better.",
-                    "date": "2025-03-11"
-                }
-            ]
-        },
-        {
-            "id": "28456",
-            "name": "Urban Yoga Women Blue Skirt With Leggings",
-            "price": 535.45,
-            "description": "Upgrade your wardrobe with this Bottomwear - Skirts, designed for Sports.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/c3a37f190933411b11c0fa488bc8bc4d_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r8463",
-                    "userId": "u26",
-                    "rating": 3.6,
-                    "comment": "Highly recommended!",
-                    "date": "2025-02-27"
-                }
-            ]
-        },
-        {
-            "id": "54588",
-            "name": "Sushilas Women Printed Green Kurta",
-            "price": 1138.18,
-            "description": "A stylish and comfortable Kurtas perfect for Ethnic.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/Sushilas-Women-Printed-Green-Kurta_c9347616597dbcbe6eca805e1677c269_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r5688",
-                    "userId": "u16",
-                    "rating": 4.6,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-09-16"
-                }
-            ]
-        },
-        {
-            "id": "24406",
-            "name": "Vishudh Women Red Printed Kurta",
-            "price": 859.38,
-            "description": "Experience the best of Apparel with this Kurtas, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/cc658745ce38f9e09bec039a997155a9_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r5350",
-                    "userId": "u90",
-                    "rating": 4.4,
-                    "comment": "Highly recommended!",
-                    "date": "2025-03-06"
-                },
-                {
-                    "id": "r8020",
-                    "userId": "u53",
-                    "rating": 3.3,
-                    "comment": "Not bad, could be better.",
-                    "date": "2025-03-13"
-                }
-            ]
-        },
-        {
-            "id": "27283",
-            "name": "Mother Earth Women Magenta Kurta",
-            "price": 838.43,
-            "description": "Upgrade your wardrobe with this Topwear - Kurtas, designed for Ethnic.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/1dea61d01ec84aed63dcbb32adda717a_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r1974",
-                    "userId": "u15",
-                    "rating": 4.1,
-                    "comment": "Loved it!",
-                    "date": "2024-06-26"
-                },
-                {
-                    "id": "r7439",
-                    "userId": "u31",
-                    "rating": 3.2,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-12-01"
-                }
-            ]
-        },
-        {
-            "id": "42426",
-            "name": "Aurelia Women Sea Green Kurta",
-            "price": 59.45,
-            "description": "A stylish and comfortable Kurtas perfect for Ethnic.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/2e25195b2eaba31b89a991f2e0dbd532_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r2884",
-                    "userId": "u90",
-                    "rating": 3.2,
-                    "comment": "Loved it!",
-                    "date": "2024-11-07"
-                },
-                {
-                    "id": "r5413",
-                    "userId": "u99",
-                    "rating": 4.6,
-                    "comment": "Good value for money.",
-                    "date": "2024-12-02"
-                }
-            ]
-        },
-        {
-            "id": "50325",
-            "name": "Aurelia Women Navy Blue Kurta",
-            "price": 476.85,
-            "description": "Experience the best of Apparel with this Kurtas, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/Aurelia-Women-Navy-Blue-Kurta_269c51a0aa07f814b0d68df6b37d4113_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r6287",
-                    "userId": "u78",
-                    "rating": 3.4,
-                    "comment": "Highly recommended!",
-                    "date": "2024-11-04"
-                }
-            ]
-        }
-    ],
-    "Men's Shirts": [
-        {
-            "id": "15970",
-            "name": "Turtle Check Men Navy Blue Shirt",
-            "price": 1472.37,
-            "description": "Experience the best of Apparel with this Shirts, ideal for Fall wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/7a5b82d1372a7a5c6de67ae7a314fd91_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r2863",
-                    "userId": "u81",
-                    "rating": 4.7,
-                    "comment": "Loved it!",
-                    "date": "2025-01-13"
-                },
-                {
-                    "id": "r1261",
-                    "userId": "u37",
-                    "rating": 3.8,
-                    "comment": "Loved it!",
-                    "date": "2024-08-12"
-                }
-            ]
-        },
-        {
-            "id": "30805",
-            "name": "Fabindia Men Striped Green Shirt",
-            "price": 1783.22,
-            "description": "A stylish and comfortable Shirts perfect for Ethnic.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/06e9d4231254fdb2c7fe967ad413ad7b_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r2544",
-                    "userId": "u99",
-                    "rating": 3.2,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-10-29"
-                },
-                {
-                    "id": "r3748",
-                    "userId": "u49",
-                    "rating": 4.6,
-                    "comment": "Good value for money.",
-                    "date": "2025-04-13"
-                },
-                {
-                    "id": "r8212",
-                    "userId": "u49",
-                    "rating": 3.8,
-                    "comment": "Amazing product!",
-                    "date": "2024-06-30"
-                }
-            ]
-        },
-        {
-            "id": "26960",
-            "name": "Jealous 21 Women Purple Shirt",
-            "price": 646.73,
-            "description": "Experience the best of Apparel with this Shirts, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/45ddbc6a15140556214e15923244755b_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r9072",
-                    "userId": "u46",
-                    "rating": 3.5,
-                    "comment": "Loved it!",
-                    "date": "2024-09-21"
-                },
-                {
-                    "id": "r4529",
-                    "userId": "u83",
-                    "rating": 3.7,
-                    "comment": "Highly recommended!",
-                    "date": "2025-03-03"
-                }
-            ]
-        },
-        {
-            "id": "12369",
-            "name": "Reid & Taylor Men Check Purple Shirts",
-            "price": 821.29,
-            "description": "Upgrade your wardrobe with this Topwear - Shirts, designed for Formal.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/8bc9be576081baae77e8561b1132288f_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r1370",
-                    "userId": "u21",
-                    "rating": 4.7,
-                    "comment": "Loved it!",
-                    "date": "2025-04-20"
-                },
-                {
-                    "id": "r7343",
-                    "userId": "u36",
-                    "rating": 3.4,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-12-11"
-                }
-            ]
-        },
-        {
-            "id": "37812",
-            "name": "John Players Men Navy Blue Shirt",
-            "price": 385.1,
-            "description": "Upgrade your wardrobe with this Topwear - Shirts, designed for Formal.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/3af9f145845d8453a066322de35980af_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r7168",
-                    "userId": "u77",
-                    "rating": 4.1,
-                    "comment": "Good value for money.",
-                    "date": "2025-01-18"
-                },
-                {
-                    "id": "r7514",
-                    "userId": "u57",
-                    "rating": 3.8,
-                    "comment": "Amazing product!",
-                    "date": "2025-03-10"
-                }
-            ]
-        },
-        {
-            "id": "56825",
-            "name": "John Players Men Brown Shirt",
-            "price": 1535.65,
-            "description": "Experience the best of Apparel with this Shirts, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/John-Players-Men-Brown-Shirt_7eec3b0568f65dc8f39a534376538551_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r3220",
-                    "userId": "u98",
-                    "rating": 4.8,
-                    "comment": "Loved it!",
-                    "date": "2024-10-12"
-                },
-                {
-                    "id": "r3366",
-                    "userId": "u39",
-                    "rating": 3.5,
-                    "comment": "Good value for money.",
-                    "date": "2024-08-09"
-                },
-                {
-                    "id": "r4657",
-                    "userId": "u14",
-                    "rating": 3.6,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-11-09"
-                }
-            ]
-        },
-        {
-            "id": "9452",
-            "name": "John Miller Men Stripes White Red Shirts",
-            "price": 668.58,
-            "description": "Upgrade your wardrobe with this Topwear - Shirts, designed for Formal.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/5e557eb0be7c6420f7c7a6bbaa432993_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r1043",
-                    "userId": "u51",
-                    "rating": 3.1,
-                    "comment": "Not bad, could be better.",
-                    "date": "2024-05-31"
-                },
-                {
-                    "id": "r4453",
-                    "userId": "u33",
-                    "rating": 4.4,
-                    "comment": "Good value for money.",
-                    "date": "2025-02-20"
-                }
-            ]
-        },
-        {
-            "id": "4943",
-            "name": "Gini and Jony Boy's Kaleb White Brown Kidswear",
-            "price": 1755.37,
-            "description": "Upgrade your wardrobe with this Topwear - Shirts, designed for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/1aae016d0abb224cfc18e6bd9bb01ad1_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r4826",
-                    "userId": "u4",
-                    "rating": 4.0,
-                    "comment": "Amazing product!",
-                    "date": "2024-08-06"
-                }
-            ]
-        },
-        {
-            "id": "9660",
-            "name": "Indigo Nation Men Reversible Bling Pink Shirts",
-            "price": 192.35,
-            "description": "Experience the best of Apparel with this Shirts, ideal for Fall wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/0be615f02ae1f1cfe78155555a79007c_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r5053",
-                    "userId": "u9",
-                    "rating": 4.8,
-                    "comment": "Amazing product!",
-                    "date": "2024-05-14"
-                },
-                {
-                    "id": "r4043",
-                    "userId": "u24",
-                    "rating": 4.9,
-                    "comment": "Highly recommended!",
-                    "date": "2024-09-02"
-                }
-            ]
-        },
-        {
-            "id": "15984",
-            "name": "Turtle Check Men Yellow Shirt",
-            "price": 859.67,
-            "description": "Upgrade your wardrobe with this Topwear - Shirts, designed for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/1049df82b306da238c324c6c7031b135_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r3119",
-                    "userId": "u16",
-                    "rating": 3.3,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-08-12"
-                },
-                {
-                    "id": "r9463",
-                    "userId": "u15",
-                    "rating": 3.3,
-                    "comment": "Not bad, could be better.",
-                    "date": "2024-08-02"
-                }
-            ]
-        }
-    ],
-    "Men's Trousers": [
-        {
-            "id": "10257",
-            "name": "John Miller Men Solid Type Black Trousers",
-            "price": 1890.48,
-            "description": "Upgrade your wardrobe with this Bottomwear - Trousers, designed for Formal.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/bbddb8510d402639e0a038bde5ec08bb_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r9363",
-                    "userId": "u70",
-                    "rating": 4.6,
-                    "comment": "Good value for money.",
-                    "date": "2025-04-10"
-                },
-                {
-                    "id": "r5014",
-                    "userId": "u35",
-                    "rating": 3.5,
-                    "comment": "Good value for money.",
-                    "date": "2024-11-25"
-                }
-            ]
-        },
-        {
-            "id": "32563",
-            "name": "ONLY Women directoire blue Trousers",
-            "price": 731.47,
-            "description": "Experience the best of Apparel with this Trousers, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/ONLY-Women-directoire-blue-Trousers_9ad40a06ae4b8c071f84e12599c1c9b7_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r6917",
-                    "userId": "u51",
-                    "rating": 4.5,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-11-05"
-                }
-            ]
-        },
-        {
-            "id": "26163",
-            "name": "John Miller Men Dark Grey Trousers",
-            "price": 1506.17,
-            "description": "Experience the best of Apparel with this Trousers, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/987d4390421e951dafe4bfdaba57f5fd_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r7893",
-                    "userId": "u22",
-                    "rating": 3.6,
-                    "comment": "Loved it!",
-                    "date": "2025-02-28"
-                },
-                {
-                    "id": "r3973",
-                    "userId": "u33",
-                    "rating": 4.8,
-                    "comment": "Highly recommended!",
-                    "date": "2024-12-25"
-                }
-            ]
-        },
-        {
-            "id": "57138",
-            "name": "Elle Women Brown Trousers",
-            "price": 1134.26,
-            "description": "A stylish and comfortable Trousers perfect for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Brown-Trousers_a7f66d28a9214c62dc8073fa66146018_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r1016",
-                    "userId": "u96",
-                    "rating": 5.0,
-                    "comment": "Amazing product!",
-                    "date": "2024-11-07"
-                },
-                {
-                    "id": "r5591",
-                    "userId": "u30",
-                    "rating": 3.6,
-                    "comment": "Loved it!",
-                    "date": "2025-02-09"
-                },
-                {
-                    "id": "r1485",
-                    "userId": "u65",
-                    "rating": 3.3,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-07-09"
-                }
-            ]
-        },
-        {
-            "id": "13248",
-            "name": "Palm Tree Kids Boy Solid Brown Trousers",
-            "price": 529.36,
-            "description": "A stylish and comfortable Trousers perfect for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/5f064c454ce1578a2a667d28872a0453_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r6486",
-                    "userId": "u79",
-                    "rating": 3.6,
-                    "comment": "Not bad, could be better.",
-                    "date": "2024-12-15"
-                },
-                {
-                    "id": "r3563",
-                    "userId": "u4",
-                    "rating": 4.9,
-                    "comment": "Amazing product!",
-                    "date": "2025-01-19"
-                },
-                {
-                    "id": "r3947",
-                    "userId": "u8",
-                    "rating": 4.2,
-                    "comment": "Highly recommended!",
-                    "date": "2025-04-11"
-                }
-            ]
-        },
-        {
-            "id": "56822",
-            "name": "John Players Men Beige Shorts",
-            "price": 660.81,
-            "description": "Upgrade your wardrobe with this Bottomwear - Trousers, designed for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/John-Players-Men-Beige-Shorts_121cc979460c6139c92c31e560abc152_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r5616",
-                    "userId": "u41",
-                    "rating": 3.9,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-07-17"
-                },
-                {
-                    "id": "r5537",
-                    "userId": "u96",
-                    "rating": 3.6,
-                    "comment": "Good value for money.",
-                    "date": "2024-04-30"
-                },
-                {
-                    "id": "r7272",
-                    "userId": "u13",
-                    "rating": 3.9,
-                    "comment": "Loved it!",
-                    "date": "2025-04-02"
-                }
-            ]
-        },
-        {
-            "id": "27614",
-            "name": "Scullers Men Beige Trousers",
-            "price": 948.73,
-            "description": "Upgrade your wardrobe with this Bottomwear - Trousers, designed for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/40b830e01b25eee921ea6c1ba16f1629_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r5032",
-                    "userId": "u31",
-                    "rating": 3.8,
-                    "comment": "Highly recommended!",
-                    "date": "2024-04-27"
-                },
-                {
-                    "id": "r5777",
-                    "userId": "u78",
-                    "rating": 4.8,
-                    "comment": "Amazing product!",
-                    "date": "2024-11-22"
-                },
-                {
-                    "id": "r9787",
-                    "userId": "u15",
-                    "rating": 4.2,
-                    "comment": "Amazing product!",
-                    "date": "2025-01-23"
-                }
-            ]
-        },
-        {
-            "id": "26164",
-            "name": "John Miller Men Striped Grey Trousers",
-            "price": 1247.24,
-            "description": "Experience the best of Apparel with this Trousers, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/5b8f4d8f89d556b20cdba75bad71a23e_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r5808",
-                    "userId": "u16",
-                    "rating": 3.2,
-                    "comment": "Highly recommended!",
-                    "date": "2025-03-04"
-                }
-            ]
-        },
-        {
-            "id": "32564",
-            "name": "ONLY Women Orange Trousers",
-            "price": 1325.38,
-            "description": "Upgrade your wardrobe with this Bottomwear - Trousers, designed for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/ONLY-Women-Orange-Trousers_317f0e045fb28b45820102148bdc4f7b_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r6360",
-                    "userId": "u69",
-                    "rating": 4.4,
-                    "comment": "Perfect for daily use.",
-                    "date": "2025-04-22"
-                },
-                {
-                    "id": "r5632",
-                    "userId": "u90",
-                    "rating": 4.0,
-                    "comment": "Good value for money.",
-                    "date": "2024-07-04"
-                }
-            ]
-        },
-        {
-            "id": "23072",
-            "name": "Arrow Men Navy Blue Solid Trousers",
-            "price": 954.69,
-            "description": "Experience the best of Apparel with this Trousers, ideal for Winter wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/64c62f3e3406deb5326d7bf6f4c417f4_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r5473",
-                    "userId": "u19",
-                    "rating": 4.8,
-                    "comment": "Not bad, could be better.",
-                    "date": "2025-02-12"
-                }
-            ]
-        }
-    ],
-    "Shoes": [],
-    "Handbags": [
-        {
-            "id": "47957",
-            "name": "Murcia Women Blue Handbag",
-            "price": 1002.76,
-            "description": "Experience the best of Accessories with this Handbags, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/Murcia-Women-Blue-Handbag_13cfaff26872c298112a8e7da15c1e1d_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r1258",
-                    "userId": "u63",
-                    "rating": 4.1,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-08-23"
-                }
-            ]
-        },
-        {
-            "id": "47359",
-            "name": "Baggit Women Brown Handbag",
-            "price": 609.54,
-            "description": "Experience the best of Accessories with this Handbags, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/b14c7bf275c6edca3e849200fb7cbf6c_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r4088",
-                    "userId": "u38",
-                    "rating": 4.9,
-                    "comment": "Good value for money.",
-                    "date": "2024-11-07"
-                },
-                {
-                    "id": "r4315",
-                    "userId": "u5",
-                    "rating": 3.7,
-                    "comment": "Highly recommended!",
-                    "date": "2025-03-05"
-                },
-                {
-                    "id": "r2113",
-                    "userId": "u23",
-                    "rating": 4.5,
-                    "comment": "Good value for money.",
-                    "date": "2025-04-03"
-                }
-            ]
-        },
-        {
-            "id": "21977",
-            "name": "Murcia Women Casual Brown Handbag",
-            "price": 545.49,
-            "description": "A stylish and comfortable Handbags perfect for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/88d0bc675d72477729f38c30332e749a_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r8910",
-                    "userId": "u88",
-                    "rating": 4.4,
-                    "comment": "Good value for money.",
-                    "date": "2024-10-06"
-                }
-            ]
-        },
-        {
-            "id": "58183",
-            "name": "Rocky S Women White Handbag",
-            "price": 480.17,
-            "description": "Experience the best of Accessories with this Handbags, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/Rocky-S-Women-White-Handbag_1440a0abd2ddaf3199965e604831b164_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r3998",
-                    "userId": "u63",
-                    "rating": 4.8,
-                    "comment": "Perfect for daily use.",
-                    "date": "2024-10-08"
-                },
-                {
-                    "id": "r9070",
-                    "userId": "u87",
-                    "rating": 4.0,
-                    "comment": "Highly recommended!",
-                    "date": "2024-12-21"
-                },
-                {
-                    "id": "r6147",
-                    "userId": "u47",
-                    "rating": 3.5,
-                    "comment": "Not bad, could be better.",
-                    "date": "2024-10-07"
-                }
-            ]
-        },
-        {
-            "id": "29742",
-            "name": "Kiara Women Teal Handbag",
-            "price": 1426.16,
-            "description": "Experience the best of Accessories with this Handbags, ideal for Summer wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/8b58c65e5634233b165c40cdbbcf58b8_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r5317",
-                    "userId": "u48",
-                    "rating": 3.9,
-                    "comment": "Highly recommended!",
-                    "date": "2024-07-02"
-                }
-            ]
-        },
-        {
-            "id": "42841",
-            "name": "French Connection Women Beige Handbag",
-            "price": 1080.17,
-            "description": "A stylish and comfortable Handbags perfect for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/97d3bb4a71c9f7da88305ce9144d8576_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r1051",
-                    "userId": "u72",
-                    "rating": 4.5,
-                    "comment": "Not bad, could be better.",
-                    "date": "2024-08-12"
-                },
-                {
-                    "id": "r4046",
-                    "userId": "u42",
-                    "rating": 4.7,
-                    "comment": "Amazing product!",
-                    "date": "2025-04-07"
-                },
-                {
-                    "id": "r7799",
-                    "userId": "u23",
-                    "rating": 4.2,
-                    "comment": "Loved it!",
-                    "date": "2024-08-19"
-                }
-            ]
-        },
-        {
-            "id": "35913",
-            "name": "Peperone Women Black & White Handbag",
-            "price": 925.77,
-            "description": "Upgrade your wardrobe with this Bags - Handbags, designed for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/73bc7d63943231e4df1c7b7600496a3d_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r2958",
-                    "userId": "u18",
-                    "rating": 3.4,
-                    "comment": "Good value for money.",
-                    "date": "2025-02-23"
-                }
-            ]
-        },
-        {
-            "id": "31923",
-            "name": "Fabindia Women Blue Silk Sling Bag",
-            "price": 1848.76,
-            "description": "Upgrade your wardrobe with this Bags - Handbags, designed for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/21c45000f209a31a74ed47f9ec9ac87e_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r8490",
-                    "userId": "u21",
-                    "rating": 4.6,
-                    "comment": "Good value for money.",
-                    "date": "2024-12-23"
-                },
-                {
-                    "id": "r7284",
-                    "userId": "u66",
-                    "rating": 3.6,
-                    "comment": "Highly recommended!",
-                    "date": "2024-08-05"
-                },
-                {
-                    "id": "r4297",
-                    "userId": "u52",
-                    "rating": 4.5,
-                    "comment": "Good value for money.",
-                    "date": "2024-12-02"
-                }
-            ]
-        },
-        {
-            "id": "58177",
-            "name": "Rocky S Women Brown Handbag",
-            "price": 560.2,
-            "description": "A stylish and comfortable Handbags perfect for Casual.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/Rocky-S-Women-Brown-Handbag_5b44f798c0d6b84b00ae5a6316d931af_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r7963",
-                    "userId": "u87",
-                    "rating": 3.4,
-                    "comment": "Loved it!",
-                    "date": "2025-04-21"
-                },
-                {
-                    "id": "r8470",
-                    "userId": "u70",
-                    "rating": 3.2,
-                    "comment": "Highly recommended!",
-                    "date": "2024-10-06"
-                }
-            ]
-        },
-        {
-            "id": "21510",
-            "name": "Kiara Women Graphiti White Handbag",
-            "price": 142.09,
-            "description": "Experience the best of Accessories with this Handbags, ideal for Winter wear.",
-            "images": [
-                "http://assets.myntassets.com/v1/images/style/properties/97f41f38d2fa5f88fa5322daf7f093f6_images.jpg"
-            ],
-            "reviews": [
-                {
-                    "id": "r1860",
-                    "userId": "u42",
-                    "rating": 4.1,
-                    "comment": "Good value for money.",
-                    "date": "2025-02-17"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "42419",
+        "name": "Gini and Jony Girls Knit White Top",
+        "price": 116.35,
+        "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/f3964f76c78edd85f4512d98b26d52e9_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9190",
+                "userId": "u80",
+                "rating": 3.9,
+                "comment": "Highly recommended!",
+                "date": "2024-06-18"
+            },
+            {
+                "id": "r1203",
+                "userId": "u28",
+                "rating": 3.4,
+                "comment": "Good value for money.",
+                "date": "2024-08-11"
+            }
+        ]
+    },
+    {
+        "id": "49653",
+        "name": "Mineral Women Green Top",
+        "price": 421.36,
+        "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/fe446adf94f9beb301b61bfc75a70bfa_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5517",
+                "userId": "u73",
+                "rating": 3.1,
+                "comment": "Loved it!",
+                "date": "2024-10-12"
+            }
+        ]
+    },
+    {
+        "id": "58513",
+        "name": "Tonga Women Maroon Top",
+        "price": 308.47,
+        "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Tonga-Women-Maroon-Top_e5cc855ba59e5640817434d45f9c088d_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1508",
+                "userId": "u64",
+                "rating": 3.1,
+                "comment": "Highly recommended!",
+                "date": "2024-08-03"
+            }
+        ]
+    },
+    {
+        "id": "34009",
+        "name": "Gini and Jony Girls Black Top",
+        "price": 267.09,
+        "description": "A stylish and comfortable Tops perfect for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/dce310e4c15223a6c964631190263284_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3985",
+                "userId": "u61",
+                "rating": 4.1,
+                "comment": "Not bad, could be better.",
+                "date": "2024-05-11"
+            },
+            {
+                "id": "r2522",
+                "userId": "u99",
+                "rating": 4.4,
+                "comment": "Amazing product!",
+                "date": "2025-02-22"
+            }
+        ]
+    },
+    {
+        "id": "31782",
+        "name": "Lee Women Paula Blue Top",
+        "price": 191.45,
+        "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/5b427e7381af213df2d54a17cd193aea_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3415",
+                "userId": "u59",
+                "rating": 4.0,
+                "comment": "Perfect for daily use.",
+                "date": "2024-09-04"
+            }
+        ]
+    },
+    {
+        "id": "40143",
+        "name": "Gini and Jony Girls Pretty Blossom Blue Top",
+        "price": 1627.76,
+        "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/fc3c1b46906d5c148c45f532d0b3ffb5_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5392",
+                "userId": "u54",
+                "rating": 3.2,
+                "comment": "Perfect for daily use.",
+                "date": "2024-05-04"
+            },
+            {
+                "id": "r8229",
+                "userId": "u87",
+                "rating": 4.2,
+                "comment": "Perfect for daily use.",
+                "date": "2024-11-22"
+            }
+        ]
+    },
+    {
+        "id": "21174",
+        "name": "s.Oliver Women Stripes Beige Top",
+        "price": 62.21,
+        "description": "A stylish and comfortable Tops perfect for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/5a76ef8930d8bd543d8f7e6f5383d390_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6973",
+                "userId": "u16",
+                "rating": 4.2,
+                "comment": "Amazing product!",
+                "date": "2025-02-08"
+            },
+            {
+                "id": "r2222",
+                "userId": "u51",
+                "rating": 4.3,
+                "comment": "Perfect for daily use.",
+                "date": "2024-11-27"
+            }
+        ]
+    },
+    {
+        "id": "23623",
+        "name": "Doodle Kids Girls Pink I love Shopping Top",
+        "price": 880.28,
+        "description": "Upgrade your wardrobe with this Topwear - Tops, designed for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/ef9685293a987f515492addd034006bf_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9347",
+                "userId": "u38",
+                "rating": 3.1,
+                "comment": "Perfect for daily use.",
+                "date": "2024-08-24"
+            },
+            {
+                "id": "r2573",
+                "userId": "u10",
+                "rating": 4.7,
+                "comment": "Good value for money.",
+                "date": "2024-09-22"
+            },
+            {
+                "id": "r8105",
+                "userId": "u80",
+                "rating": 4.5,
+                "comment": "Highly recommended!",
+                "date": "2025-01-03"
+            }
+        ]
+    },
+    {
+        "id": "10401",
+        "name": "Jealous 21 Women Uaine Purple Tops",
+        "price": 84.93,
+        "description": "Experience the best of Apparel with this Tops, ideal for Fall wear.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/144954d20ce2e31fe6953f3e249e9a68_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5789",
+                "userId": "u91",
+                "rating": 4.4,
+                "comment": "Amazing product!",
+                "date": "2025-02-28"
+            },
+            {
+                "id": "r7509",
+                "userId": "u14",
+                "rating": 4.0,
+                "comment": "Amazing product!",
+                "date": "2024-06-22"
+            }
+        ]
+    },
+    {
+        "id": "37223",
+        "name": "United Colors of Benetton Women Blue Top",
+        "price": 985.03,
+        "description": "A stylish and comfortable Tops perfect for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/58c4b740c2d2e9b52c6900579c7ff2d2_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6466",
+                "userId": "u43",
+                "rating": 3.0,
+                "comment": "Good value for money.",
+                "date": "2024-08-29"
+            },
+            {
+                "id": "r6783",
+                "userId": "u46",
+                "rating": 4.4,
+                "comment": "Perfect for daily use.",
+                "date": "2025-03-27"
+            },
+            {
+                "id": "r6470",
+                "userId": "u66",
+                "rating": 3.7,
+                "comment": "Amazing product!",
+                "date": "2025-04-04"
+            }
+        ]
+    }
+]

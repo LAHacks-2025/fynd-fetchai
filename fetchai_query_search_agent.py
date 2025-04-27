@@ -59,8 +59,9 @@ AGENT_ADDRESSES = {
 # Agent endpoints
 AGENT_ENDPOINTS = {
     "beer": "http://localhost:8009/products",
-    "dress": "YOUR_DRESS_AGENT_ENDPOINT",
-    "watch": "YOUR_WATCH_AGENT_ENDPOINT"
+    "dress": "http://localhost:8010/products",
+    "watch": "http://localhost:8011/products",
+    "shoe": "http://localhost:8012/products"
 }
 
 def analyze_query(query: str) -> str:
@@ -73,7 +74,7 @@ def analyze_query(query: str) -> str:
         - beer
         - dress
         - watch
-        - shoes
+        - shoe
 
         Query: {query}
         """
@@ -128,6 +129,7 @@ async def process_query(request: QueryRequest):
         
         # Get agent endpoint for this product type
         agent_endpoint = AGENT_ENDPOINTS.get(product_type)
+        print(f"Agent endpoint: {agent_endpoint}")
         if not agent_endpoint:
             raise HTTPException(status_code=404, detail=f"No agent found for product type: {product_type}")
         

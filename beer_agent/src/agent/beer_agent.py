@@ -1,5 +1,5 @@
 from uagents import Agent, Context, Protocol, Model
-from src.agent.models import (
+from ..agent.models import (
     Product, Review, ProductAttributes
 )
 import json
