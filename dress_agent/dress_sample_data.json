@@ -1,244 +1,3293 @@
 [
     {
-        "id": "42419",
-        "name": "Gini and Jony Girls Knit White Top",
-        "price": 116.35,
-        "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
+        "id": "48468",
+        "name": "French Connection Mauve Dress",
+        "price": 1986.52,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
         "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/f3964f76c78edd85f4512d98b26d52e9_images.jpg"
+            "http://assets.myntassets.com/v1/images/style/properties/French-Connection-Mauve-Dress_bdbc540c48501913f1bc922a21cc339c_images.jpg"
         ],
         "reviews": [
             {
-                "id": "r9190",
-                "userId": "u80",
-                "rating": 3.9,
-                "comment": "Highly recommended!",
-                "date": "2024-06-18"
+                "id": "r9382",
+                "userId": "u85",
+                "rating": 3.8,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-05-29"
+            }
+        ]
+    },
+    {
+        "id": "57050",
+        "name": "Elle Color Clash Purple Dress",
+        "price": 1944.95,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Elle-Color-Clash-Purple-Dress_58462a913b738c272a3cf61069262346_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7154",
+                "userId": "u8",
+                "rating": 4.8,
+                "comment": "Elegant and classy!",
+                "date": "2025-01-05"
             },
             {
-                "id": "r1203",
-                "userId": "u28",
-                "rating": 3.4,
-                "comment": "Good value for money.",
-                "date": "2024-08-11"
-            }
-        ]
-    },
-    {
-        "id": "49653",
-        "name": "Mineral Women Green Top",
-        "price": 421.36,
-        "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/fe446adf94f9beb301b61bfc75a70bfa_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r5517",
-                "userId": "u73",
-                "rating": 3.1,
-                "comment": "Loved it!",
-                "date": "2024-10-12"
-            }
-        ]
-    },
-    {
-        "id": "58513",
-        "name": "Tonga Women Maroon Top",
-        "price": 308.47,
-        "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/Tonga-Women-Maroon-Top_e5cc855ba59e5640817434d45f9c088d_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r1508",
-                "userId": "u64",
-                "rating": 3.1,
-                "comment": "Highly recommended!",
-                "date": "2024-08-03"
-            }
-        ]
-    },
-    {
-        "id": "34009",
-        "name": "Gini and Jony Girls Black Top",
-        "price": 267.09,
-        "description": "A stylish and comfortable Tops perfect for Casual.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/dce310e4c15223a6c964631190263284_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r3985",
-                "userId": "u61",
-                "rating": 4.1,
-                "comment": "Not bad, could be better.",
-                "date": "2024-05-11"
-            },
-            {
-                "id": "r2522",
-                "userId": "u99",
-                "rating": 4.4,
-                "comment": "Amazing product!",
-                "date": "2025-02-22"
-            }
-        ]
-    },
-    {
-        "id": "31782",
-        "name": "Lee Women Paula Blue Top",
-        "price": 191.45,
-        "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/5b427e7381af213df2d54a17cd193aea_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r3415",
-                "userId": "u59",
-                "rating": 4.0,
-                "comment": "Perfect for daily use.",
-                "date": "2024-09-04"
-            }
-        ]
-    },
-    {
-        "id": "40143",
-        "name": "Gini and Jony Girls Pretty Blossom Blue Top",
-        "price": 1627.76,
-        "description": "Experience the best of Apparel with this Tops, ideal for Summer wear.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/fc3c1b46906d5c148c45f532d0b3ffb5_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r5392",
-                "userId": "u54",
-                "rating": 3.2,
-                "comment": "Perfect for daily use.",
-                "date": "2024-05-04"
-            },
-            {
-                "id": "r8229",
-                "userId": "u87",
-                "rating": 4.2,
-                "comment": "Perfect for daily use.",
-                "date": "2024-11-22"
-            }
-        ]
-    },
-    {
-        "id": "21174",
-        "name": "s.Oliver Women Stripes Beige Top",
-        "price": 62.21,
-        "description": "A stylish and comfortable Tops perfect for Casual.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/5a76ef8930d8bd543d8f7e6f5383d390_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r6973",
-                "userId": "u16",
-                "rating": 4.2,
-                "comment": "Amazing product!",
-                "date": "2025-02-08"
-            },
-            {
-                "id": "r2222",
-                "userId": "u51",
-                "rating": 4.3,
-                "comment": "Perfect for daily use.",
-                "date": "2024-11-27"
-            }
-        ]
-    },
-    {
-        "id": "23623",
-        "name": "Doodle Kids Girls Pink I love Shopping Top",
-        "price": 880.28,
-        "description": "Upgrade your wardrobe with this Topwear - Tops, designed for Casual.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/ef9685293a987f515492addd034006bf_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r9347",
-                "userId": "u38",
-                "rating": 3.1,
-                "comment": "Perfect for daily use.",
-                "date": "2024-08-24"
-            },
-            {
-                "id": "r2573",
+                "id": "r9768",
                 "userId": "u10",
-                "rating": 4.7,
-                "comment": "Good value for money.",
-                "date": "2024-09-22"
-            },
-            {
-                "id": "r8105",
-                "userId": "u80",
-                "rating": 4.5,
-                "comment": "Highly recommended!",
-                "date": "2025-01-03"
+                "rating": 4.3,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-10-03"
             }
         ]
     },
     {
-        "id": "10401",
-        "name": "Jealous 21 Women Uaine Purple Tops",
-        "price": 84.93,
-        "description": "Experience the best of Apparel with this Tops, ideal for Fall wear.",
+        "id": "48481",
+        "name": "French Connection Black Dress",
+        "price": 1934.68,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
         "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/144954d20ce2e31fe6953f3e249e9a68_images.jpg"
+            "http://assets.myntassets.com/v1/images/style/properties/French-Connection-Black-Dress_0b3856664dd61f2093c6f820c74abc8f_images.jpg"
         ],
         "reviews": [
             {
-                "id": "r5789",
-                "userId": "u91",
-                "rating": 4.4,
-                "comment": "Amazing product!",
-                "date": "2025-02-28"
+                "id": "r4339",
+                "userId": "u34",
+                "rating": 4.3,
+                "comment": "Elegant and classy!",
+                "date": "2024-08-07"
             },
             {
-                "id": "r7509",
-                "userId": "u14",
+                "id": "r6695",
+                "userId": "u46",
+                "rating": 3.7,
+                "comment": "Elegant and classy!",
+                "date": "2025-03-10"
+            },
+            {
+                "id": "r3247",
+                "userId": "u62",
+                "rating": 4.4,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-05-25"
+            }
+        ]
+    },
+    {
+        "id": "40412",
+        "name": "Tonga Women Plum Dress",
+        "price": 1914.79,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/7962b3a441256fc78bcafec38dae409f_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1794",
+                "userId": "u36",
+                "rating": 4.9,
+                "comment": "Elegant and classy!",
+                "date": "2024-06-13"
+            }
+        ]
+    },
+    {
+        "id": "48469",
+        "name": "French Connection Black Dress",
+        "price": 1906.65,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/French-Connection-Black-Dress_ec81a8ee5a9f9f6504a8c05bb9652c67_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7735",
+                "userId": "u24",
                 "rating": 4.0,
-                "comment": "Amazing product!",
+                "comment": "Perfect for special occasions!",
+                "date": "2024-05-30"
+            }
+        ]
+    },
+    {
+        "id": "58489",
+        "name": "Tonga Women Beige Dress",
+        "price": 1882.88,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Tonga-Women-Beige-Dress_b325c0619719bd4ddf26cc6a17e74a2c_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4422",
+                "userId": "u51",
+                "rating": 4.7,
+                "comment": "Elegant and classy!",
+                "date": "2024-05-21"
+            }
+        ]
+    },
+    {
+        "id": "59987",
+        "name": "Avirate Black Dress",
+        "price": 1877.15,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black-Dress_3c97a7e7187b43ffb71860fa5e4370be_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8456",
+                "userId": "u55",
+                "rating": 4.9,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-12-15"
+            },
+            {
+                "id": "r1828",
+                "userId": "u77",
+                "rating": 4.5,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-10-07"
+            },
+            {
+                "id": "r7582",
+                "userId": "u83",
+                "rating": 4.1,
+                "comment": "Absolutely stunning!",
+                "date": "2024-06-18"
+            }
+        ]
+    },
+    {
+        "id": "59989",
+        "name": "Avirate Women Black Dress",
+        "price": 1876.48,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Party occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Women-Black-Dress_d99419bbf72be6c1a96b0c45c6ab1cf5_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8951",
+                "userId": "u14",
+                "rating": 3.7,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-06-20"
+            },
+            {
+                "id": "r2883",
+                "userId": "u55",
+                "rating": 4.2,
+                "comment": "Elegant and classy!",
+                "date": "2024-12-17"
+            }
+        ]
+    },
+    {
+        "id": "41784",
+        "name": "Remanika Women Purple Dress",
+        "price": 1862.17,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Remanika-Women-Purple-Dress_5c22eeb22b6fa830000883b10fe054e8_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3983",
+                "userId": "u100",
+                "rating": 5.0,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-08-23"
+            }
+        ]
+    },
+    {
+        "id": "58003",
+        "name": "Latin Quarters Women Blue Dress",
+        "price": 1850.05,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Latin-Quarters-Women-Blue-Dress_29ef51a1a74b1136a296efa0d989043f_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6125",
+                "userId": "u41",
+                "rating": 4.6,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-02-07"
+            },
+            {
+                "id": "r8036",
+                "userId": "u57",
+                "rating": 4.5,
+                "comment": "Absolutely stunning!",
+                "date": "2024-06-10"
+            }
+        ]
+    },
+    {
+        "id": "59974",
+        "name": "Avirate Black & White Dress",
+        "price": 1847.86,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black---White-Dress_c78bbb9b61387c2c4aef17825e236813_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4936",
+                "userId": "u37",
+                "rating": 3.6,
+                "comment": "Elegant and classy!",
+                "date": "2025-01-23"
+            },
+            {
+                "id": "r4575",
+                "userId": "u4",
+                "rating": 4.3,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-01-15"
+            }
+        ]
+    },
+    {
+        "id": "6872",
+        "name": "Forever New Women's Lacy Black Dress",
+        "price": 1840.92,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/f85f62b4637f0dd2afcc0acbc1d514ed_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6138",
+                "userId": "u61",
+                "rating": 4.6,
+                "comment": "Absolutely stunning!",
+                "date": "2025-03-12"
+            },
+            {
+                "id": "r3945",
+                "userId": "u11",
+                "rating": 3.8,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-04-26"
+            },
+            {
+                "id": "r8268",
+                "userId": "u72",
+                "rating": 4.7,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-10-21"
+            }
+        ]
+    },
+    {
+        "id": "57989",
+        "name": "Latin Quarters Women Blue Dress",
+        "price": 1826.38,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Latin-Quarters-Women-Blue-Dress_7a52d5076420d5332f1c373769b8979c_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9503",
+                "userId": "u2",
+                "rating": 4.9,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-05-23"
+            },
+            {
+                "id": "r1627",
+                "userId": "u77",
+                "rating": 4.6,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-05-27"
+            }
+        ]
+    },
+    {
+        "id": "25971",
+        "name": "Femella Women Black Dress",
+        "price": 1803.01,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/bfb5912d10eccf37087a9689556e61e2_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3710",
+                "userId": "u67",
+                "rating": 4.0,
+                "comment": "Absolutely stunning!",
+                "date": "2024-10-10"
+            },
+            {
+                "id": "r1285",
+                "userId": "u90",
+                "rating": 4.0,
+                "comment": "Elegant and classy!",
+                "date": "2024-06-30"
+            }
+        ]
+    },
+    {
+        "id": "41798",
+        "name": "Remanika Women Printed Pink Dress",
+        "price": 1801.2,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/30e755367acba01f467477e575b38710_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7752",
+                "userId": "u81",
+                "rating": 3.8,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-02-23"
+            },
+            {
+                "id": "r7478",
+                "userId": "u21",
+                "rating": 3.7,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-02-26"
+            }
+        ]
+    },
+    {
+        "id": "44694",
+        "name": "Wills Lifestyle Women Multi Coloured Dress",
+        "price": 1800.57,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/b69b9ce3928f9628c63c874bfe5043e5_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8085",
+                "userId": "u37",
+                "rating": 3.6,
+                "comment": "Absolutely stunning!",
+                "date": "2025-03-15"
+            }
+        ]
+    },
+    {
+        "id": "43678",
+        "name": "French Connection Women White Dress",
+        "price": 1798.64,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/5d75ee73ed3983fc9b729f081376aad2_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5363",
+                "userId": "u47",
+                "rating": 4.0,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-12-22"
+            },
+            {
+                "id": "r9985",
+                "userId": "u9",
+                "rating": 4.4,
+                "comment": "Absolutely stunning!",
+                "date": "2025-03-08"
+            }
+        ]
+    },
+    {
+        "id": "48466",
+        "name": "French Connection Women Black Dress",
+        "price": 1789.61,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Party occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/French-Connection-Women-Black-Dress_c452528651f4b7320f29c0851b4e1a5d_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3837",
+                "userId": "u23",
+                "rating": 4.9,
+                "comment": "Absolutely stunning!",
+                "date": "2025-01-05"
+            },
+            {
+                "id": "r1667",
+                "userId": "u41",
+                "rating": 3.6,
+                "comment": "Absolutely stunning!",
+                "date": "2024-07-18"
+            },
+            {
+                "id": "r7907",
+                "userId": "u21",
+                "rating": 4.3,
+                "comment": "Absolutely stunning!",
+                "date": "2025-03-13"
+            }
+        ]
+    },
+    {
+        "id": "57058",
+        "name": "Elle Women Multi Coloured Dress",
+        "price": 1772.06,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Multi-Coloured-Dress_75639cd4c4dd25bc4be4710a7f81d419_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1795",
+                "userId": "u10",
+                "rating": 3.6,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-06-06"
+            },
+            {
+                "id": "r3819",
+                "userId": "u91",
+                "rating": 3.9,
+                "comment": "Elegant and classy!",
+                "date": "2024-06-22"
+            },
+            {
+                "id": "r3059",
+                "userId": "u29",
+                "rating": 3.6,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-01-27"
+            }
+        ]
+    },
+    {
+        "id": "8482",
+        "name": "Forever New Women Cream Fur Dress",
+        "price": 1762.38,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/7f07a6c28232cb2f7e0d9660599c4b30_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1868",
+                "userId": "u80",
+                "rating": 3.7,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-01-25"
+            },
+            {
+                "id": "r6903",
+                "userId": "u41",
+                "rating": 4.7,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-04-14"
+            }
+        ]
+    },
+    {
+        "id": "46285",
+        "name": "109F Women Multi Coloured Dress",
+        "price": 1751.03,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/f00a9de0191d5bdf9bd182eaf4298c72_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5595",
+                "userId": "u80",
+                "rating": 3.8,
+                "comment": "Absolutely stunning!",
+                "date": "2024-09-20"
+            }
+        ]
+    },
+    {
+        "id": "48486",
+        "name": "French Connection Women Green Dress",
+        "price": 1750.54,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/French-Connection-Women-Green-Dress_fd0748de094851c702ad864584dba618_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1371",
+                "userId": "u53",
+                "rating": 3.9,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-02-15"
+            },
+            {
+                "id": "r1891",
+                "userId": "u7",
+                "rating": 4.1,
+                "comment": "Elegant and classy!",
+                "date": "2024-05-26"
+            },
+            {
+                "id": "r8008",
+                "userId": "u73",
+                "rating": 4.6,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-08-15"
+            }
+        ]
+    },
+    {
+        "id": "48467",
+        "name": "French Connection Women Red Dress",
+        "price": 1741.72,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/French-Connection-Women-Red-Dress_f390ad36881dd65adc8e64a875548259_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7819",
+                "userId": "u97",
+                "rating": 3.9,
+                "comment": "Elegant and classy!",
+                "date": "2024-10-02"
+            },
+            {
+                "id": "r1609",
+                "userId": "u31",
+                "rating": 4.6,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-02-23"
+            }
+        ]
+    },
+    {
+        "id": "43676",
+        "name": "French Connection Women Mint Green Dress",
+        "price": 1673.26,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/cb98cf6c84166ee28fe68e2de20ee3bd_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3979",
+                "userId": "u85",
+                "rating": 3.6,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-09-15"
+            }
+        ]
+    },
+    {
+        "id": "8485",
+        "name": "Forever New Women Porcelain Black Dress",
+        "price": 1669.08,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/6240484e7e8c45cec0f6ba8b046e9575_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3304",
+                "userId": "u88",
+                "rating": 4.9,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-01-17"
+            },
+            {
+                "id": "r6292",
+                "userId": "u39",
+                "rating": 4.8,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-12-22"
+            },
+            {
+                "id": "r8952",
+                "userId": "u25",
+                "rating": 4.5,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-01-17"
+            }
+        ]
+    },
+    {
+        "id": "38838",
+        "name": "Latin Quarters Women Pink & Black Printed Dress",
+        "price": 1647.65,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/0c3f31c68dc87a91b5d80d05e68c981d_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1167",
+                "userId": "u62",
+                "rating": 3.8,
+                "comment": "Elegant and classy!",
+                "date": "2024-10-10"
+            },
+            {
+                "id": "r9219",
+                "userId": "u3",
+                "rating": 4.1,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-10-10"
+            }
+        ]
+    },
+    {
+        "id": "57043",
+        "name": "Elle Black Dress",
+        "price": 1565.77,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Elle-Black-Dress_6d4ce3b5ea193bcec24f6399303d7fe4_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1294",
+                "userId": "u92",
+                "rating": 3.5,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-02-01"
+            },
+            {
+                "id": "r1821",
+                "userId": "u91",
+                "rating": 3.9,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-03-26"
+            },
+            {
+                "id": "r6360",
+                "userId": "u34",
+                "rating": 4.9,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-11-25"
+            }
+        ]
+    },
+    {
+        "id": "59968",
+        "name": "Avirate Women Black Dress",
+        "price": 1526.92,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Party occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Women-Black-Dress_2f9504fd9206442954d3876c585a28e9_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8039",
+                "userId": "u86",
+                "rating": 4.3,
+                "comment": "Elegant and classy!",
+                "date": "2024-11-28"
+            },
+            {
+                "id": "r8349",
+                "userId": "u35",
+                "rating": 3.6,
+                "comment": "Elegant and classy!",
+                "date": "2024-11-24"
+            }
+        ]
+    },
+    {
+        "id": "59975",
+        "name": "Avirate Black & Purple Dress",
+        "price": 1521.84,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black---Purple-Dress_f957a7507df7b5ca858ca99770717c93_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5785",
+                "userId": "u38",
+                "rating": 4.3,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-08-04"
+            },
+            {
+                "id": "r3643",
+                "userId": "u30",
+                "rating": 4.0,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-02-20"
+            }
+        ]
+    },
+    {
+        "id": "33225",
+        "name": "Sepia Women Pink Dress",
+        "price": 1496.27,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/c1a94e1415f58fc183bc9488bf692e5b_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7930",
+                "userId": "u49",
+                "rating": 4.9,
+                "comment": "Elegant and classy!",
+                "date": "2025-01-13"
+            },
+            {
+                "id": "r6798",
+                "userId": "u7",
+                "rating": 4.3,
+                "comment": "Absolutely stunning!",
+                "date": "2024-06-15"
+            }
+        ]
+    },
+    {
+        "id": "37911",
+        "name": "Mineral Women Cream Dress",
+        "price": 1484.16,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/f39fadeea1b1fdc0bfb49b36516b7dac_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6330",
+                "userId": "u87",
+                "rating": 4.0,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-11-03"
+            },
+            {
+                "id": "r9744",
+                "userId": "u38",
+                "rating": 3.6,
+                "comment": "Elegant and classy!",
+                "date": "2024-12-17"
+            }
+        ]
+    },
+    {
+        "id": "59986",
+        "name": "Avirate Women Black Dress",
+        "price": 1472.82,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Smart Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black---Golden-Dress_e29c157c6dd6aa7d958e574b36427478_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6824",
+                "userId": "u21",
+                "rating": 4.9,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-11-23"
+            }
+        ]
+    },
+    {
+        "id": "43677",
+        "name": "French Connection Navy Blue Dress",
+        "price": 1469.35,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/f856d754b220b7082fec8837d6301d72_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5664",
+                "userId": "u99",
+                "rating": 3.9,
+                "comment": "Absolutely stunning!",
+                "date": "2024-11-16"
+            },
+            {
+                "id": "r9356",
+                "userId": "u30",
+                "rating": 3.8,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-11-09"
+            }
+        ]
+    },
+    {
+        "id": "59795",
+        "name": "United Colors of Benetton Women Blue Dress",
+        "price": 1464.34,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/United-Colors-of-Benetton-Women-Multi-Coloured-Sweater_4aad92373fb61da8bb69bb3ca9583bad_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9520",
+                "userId": "u88",
+                "rating": 4.9,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-01-09"
+            }
+        ]
+    },
+    {
+        "id": "6873",
+        "name": "Forever New Women's Top Black Dress",
+        "price": 1447.02,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/e5da26ddf18c9b985c5609f0baca8048_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4795",
+                "userId": "u9",
+                "rating": 4.2,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-11-21"
+            },
+            {
+                "id": "r3994",
+                "userId": "u94",
+                "rating": 4.0,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-11-04"
+            },
+            {
+                "id": "r6745",
+                "userId": "u16",
+                "rating": 4.7,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-01-08"
+            }
+        ]
+    },
+    {
+        "id": "46271",
+        "name": "109F Blue A-Line Dress",
+        "price": 1443.18,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/54bf106056279c1e825094366347668d_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1091",
+                "userId": "u42",
+                "rating": 4.3,
+                "comment": "Elegant and classy!",
                 "date": "2024-06-22"
             }
         ]
     },
     {
-        "id": "37223",
-        "name": "United Colors of Benetton Women Blue Top",
-        "price": 985.03,
-        "description": "A stylish and comfortable Tops perfect for Casual.",
+        "id": "57042",
+        "name": "Elle Black Dress",
+        "price": 1431.29,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
         "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/58c4b740c2d2e9b52c6900579c7ff2d2_images.jpg"
+            "http://assets.myntassets.com/v1/images/style/properties/Elle-Black-Dress_6e1e3ca9fdc073f8f7a63a4f0cf4ed63_images.jpg"
         ],
         "reviews": [
             {
-                "id": "r6466",
-                "userId": "u43",
-                "rating": 3.0,
-                "comment": "Good value for money.",
+                "id": "r4501",
+                "userId": "u22",
+                "rating": 4.3,
+                "comment": "Absolutely stunning!",
+                "date": "2024-11-15"
+            }
+        ]
+    },
+    {
+        "id": "37929",
+        "name": "Mineral Women Pink Dress",
+        "price": 1424.36,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/9451217eebd5297a2faf064bd5cc0d14_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9112",
+                "userId": "u92",
+                "rating": 4.1,
+                "comment": "Elegant and classy!",
+                "date": "2024-10-07"
+            },
+            {
+                "id": "r5188",
+                "userId": "u64",
+                "rating": 4.0,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-06-03"
+            }
+        ]
+    },
+    {
+        "id": "54976",
+        "name": "Femella Women Pink Dress",
+        "price": 1408.73,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Femella-Women-Multi-Coloured-Dress_f927f3fcdc8a626f621374a272b99b17_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9116",
+                "userId": "u62",
+                "rating": 3.7,
+                "comment": "Elegant and classy!",
+                "date": "2024-09-17"
+            }
+        ]
+    },
+    {
+        "id": "59966",
+        "name": "Avirate Black Polka Dot Dress",
+        "price": 1377.66,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Party occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black-Polka-Dot-Dress_1b638b91fbc676509956554321ea3bab_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1746",
+                "userId": "u88",
+                "rating": 4.7,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-04-10"
+            },
+            {
+                "id": "r3353",
+                "userId": "u69",
+                "rating": 3.8,
+                "comment": "Absolutely stunning!",
+                "date": "2024-06-07"
+            }
+        ]
+    },
+    {
+        "id": "57045",
+        "name": "Elle Women Black Dress",
+        "price": 1374.67,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Black-Dress_0493a7ff2ce537de9f11c79c20ebb4e3_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5579",
+                "userId": "u16",
+                "rating": 4.9,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-03-03"
+            },
+            {
+                "id": "r5558",
+                "userId": "u64",
+                "rating": 4.3,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-06-13"
+            }
+        ]
+    },
+    {
+        "id": "44643",
+        "name": "Arrow Woman Black Dress",
+        "price": 1353.95,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/f82e258a0f337e7c031eddfab7942858_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4636",
+                "userId": "u80",
+                "rating": 3.7,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-05-29"
+            }
+        ]
+    },
+    {
+        "id": "41770",
+        "name": "Remanika Women Printed Pink Dress",
+        "price": 1347.17,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/fc0e18f3d9df26c7a6747b655f17fbca_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5523",
+                "userId": "u22",
+                "rating": 3.6,
+                "comment": "Absolutely stunning!",
+                "date": "2024-05-21"
+            },
+            {
+                "id": "r8828",
+                "userId": "u9",
+                "rating": 4.8,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-03-31"
+            },
+            {
+                "id": "r1287",
+                "userId": "u12",
+                "rating": 4.8,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-05-29"
+            }
+        ]
+    },
+    {
+        "id": "7306",
+        "name": "UCB Women's Sleeveless Off White Dress",
+        "price": 1343.53,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/f0555f1f2db9d61cc086d1ec2f92a5f2_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6498",
+                "userId": "u82",
+                "rating": 4.8,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-11-10"
+            },
+            {
+                "id": "r6113",
+                "userId": "u33",
+                "rating": 4.6,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-06-07"
+            },
+            {
+                "id": "r6105",
+                "userId": "u1",
+                "rating": 3.7,
+                "comment": "Elegant and classy!",
+                "date": "2024-05-12"
+            }
+        ]
+    },
+    {
+        "id": "6875",
+        "name": "Forever New Women's Gold Sleeveless Black Dress",
+        "price": 1335.97,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/c910003f5aa065c54b4da010b2a673c2_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8018",
+                "userId": "u39",
+                "rating": 4.7,
+                "comment": "Absolutely stunning!",
+                "date": "2024-07-08"
+            },
+            {
+                "id": "r6689",
+                "userId": "u1",
+                "rating": 3.5,
+                "comment": "Absolutely stunning!",
+                "date": "2024-12-02"
+            },
+            {
+                "id": "r6050",
+                "userId": "u49",
+                "rating": 4.7,
+                "comment": "Absolutely stunning!",
+                "date": "2025-01-11"
+            }
+        ]
+    },
+    {
+        "id": "43303",
+        "name": "United Colors of Benetton Women Black Dress",
+        "price": 1334.3,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/United-Colors-of-Benetton-Women-Black-Dress_c5d701e03d58508466cdf50109d58998_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9731",
+                "userId": "u55",
+                "rating": 4.5,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-12-05"
+            }
+        ]
+    },
+    {
+        "id": "59897",
+        "name": "Femella Women Yellow Dress",
+        "price": 1332.87,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Femella-Women-Yellow-Dress_3d227e50c7848fd7a20a306189f9039b_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2410",
+                "userId": "u92",
+                "rating": 4.2,
+                "comment": "Elegant and classy!",
+                "date": "2024-11-13"
+            },
+            {
+                "id": "r9518",
+                "userId": "u72",
+                "rating": 3.9,
+                "comment": "Elegant and classy!",
+                "date": "2025-01-10"
+            },
+            {
+                "id": "r2708",
+                "userId": "u9",
+                "rating": 4.8,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-03-15"
+            }
+        ]
+    },
+    {
+        "id": "49631",
+        "name": "Mineral Cream Dress",
+        "price": 1332.52,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/fda0b391ae8d1d339006c5d3aeb5fb88_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4447",
+                "userId": "u1",
+                "rating": 4.8,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-12-06"
+            }
+        ]
+    },
+    {
+        "id": "59993",
+        "name": "Avirate Black Dress",
+        "price": 1328.94,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black-Dress_463ec504890c801ff8603781df0c154f_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7305",
+                "userId": "u14",
+                "rating": 3.8,
+                "comment": "Absolutely stunning!",
+                "date": "2024-08-08"
+            },
+            {
+                "id": "r5573",
+                "userId": "u51",
+                "rating": 3.8,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-10-20"
+            },
+            {
+                "id": "r2609",
+                "userId": "u25",
+                "rating": 4.9,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-05-20"
+            }
+        ]
+    },
+    {
+        "id": "45777",
+        "name": "Remanika Women Red Dress",
+        "price": 1310.9,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/b110637ed0f823e898e3119d36290223_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9281",
+                "userId": "u91",
+                "rating": 3.9,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-08-19"
+            },
+            {
+                "id": "r2509",
+                "userId": "u93",
+                "rating": 4.2,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-11-28"
+            },
+            {
+                "id": "r1856",
+                "userId": "u18",
+                "rating": 4.5,
+                "comment": "Absolutely stunning!",
+                "date": "2024-12-09"
+            }
+        ]
+    },
+    {
+        "id": "48086",
+        "name": "French Connection Navy Blue Dress",
+        "price": 1306.9,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/8323af0f4438dd8641a93bc6dac20d3c_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7541",
+                "userId": "u41",
+                "rating": 3.7,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-09-06"
+            },
+            {
+                "id": "r7822",
+                "userId": "u78",
+                "rating": 4.1,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-08-31"
+            },
+            {
+                "id": "r7926",
+                "userId": "u8",
+                "rating": 4.0,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-07-21"
+            }
+        ]
+    },
+    {
+        "id": "33969",
+        "name": "Femella Women Black Dress",
+        "price": 1298.96,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Party occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Femella-Women-Black-Dress_db1793bac3276003bafcf2f13559c0a6_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7006",
+                "userId": "u67",
+                "rating": 4.2,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-01-22"
+            },
+            {
+                "id": "r4456",
+                "userId": "u79",
+                "rating": 3.8,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-03-20"
+            },
+            {
+                "id": "r9700",
+                "userId": "u64",
+                "rating": 4.2,
+                "comment": "Elegant and classy!",
+                "date": "2024-09-10"
+            }
+        ]
+    },
+    {
+        "id": "58492",
+        "name": "Tonga Women Olive Dress",
+        "price": 1255.31,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Tonga-Women-Olive-Dress_8c2ae21e5768e114364619a0343898c9_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1961",
+                "userId": "u5",
+                "rating": 4.2,
+                "comment": "Absolutely stunning!",
+                "date": "2024-07-27"
+            },
+            {
+                "id": "r2575",
+                "userId": "u44",
+                "rating": 3.7,
+                "comment": "Elegant and classy!",
+                "date": "2024-05-10"
+            },
+            {
+                "id": "r6258",
+                "userId": "u61",
+                "rating": 4.6,
+                "comment": "Absolutely stunning!",
+                "date": "2024-11-10"
+            }
+        ]
+    },
+    {
+        "id": "43646",
+        "name": "ONLY Women Blue Dress",
+        "price": 1236.53,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/ca8e713ce9829fb999b8598b792c2a0f_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6300",
+                "userId": "u2",
+                "rating": 4.9,
+                "comment": "Absolutely stunning!",
+                "date": "2024-07-16"
+            },
+            {
+                "id": "r5489",
+                "userId": "u1",
+                "rating": 4.9,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-03-24"
+            },
+            {
+                "id": "r5915",
+                "userId": "u9",
+                "rating": 3.7,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-06-26"
+            }
+        ]
+    },
+    {
+        "id": "48473",
+        "name": "French Connection Women Blue Dress",
+        "price": 1220.16,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/French-Connection-Women-Blue-Dress_656ab84d88f7e026cb4b98960a6b05d2_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7374",
+                "userId": "u66",
+                "rating": 4.3,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-07-20"
+            }
+        ]
+    },
+    {
+        "id": "59973",
+        "name": "Avirate Women Navy Blue Dress",
+        "price": 1214.19,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Women-Navy-Blue-Dress_d3209a1b11585a2236ae82ca26afe063_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2343",
+                "userId": "u21",
+                "rating": 4.6,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-02-26"
+            },
+            {
+                "id": "r4077",
+                "userId": "u32",
+                "rating": 4.4,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-06-27"
+            }
+        ]
+    },
+    {
+        "id": "8484",
+        "name": "Forever New Women Floral Purple Dress",
+        "price": 1213.39,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/730a44ed829f9310beb97f583a960262_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2806",
+                "userId": "u60",
+                "rating": 4.5,
+                "comment": "Elegant and classy!",
+                "date": "2024-08-12"
+            },
+            {
+                "id": "r8435",
+                "userId": "u74",
+                "rating": 4.0,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-01-14"
+            }
+        ]
+    },
+    {
+        "id": "43919",
+        "name": "Femella Women Navy Blue Printed Dress",
+        "price": 1206.03,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/463b2bdcf01423e3b26096537d4ec815_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3015",
+                "userId": "u78",
+                "rating": 4.1,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-06-10"
+            },
+            {
+                "id": "r8730",
+                "userId": "u64",
+                "rating": 4.5,
+                "comment": "Absolutely stunning!",
+                "date": "2025-02-15"
+            },
+            {
+                "id": "r7802",
+                "userId": "u39",
+                "rating": 3.9,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-04-07"
+            }
+        ]
+    },
+    {
+        "id": "57059",
+        "name": "Elle Women Red Dress",
+        "price": 1180.17,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Red-Dress_ed4a867fb1e1b216bfa75fcad86514bc_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5455",
+                "userId": "u31",
+                "rating": 3.6,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-07-16"
+            },
+            {
+                "id": "r2584",
+                "userId": "u55",
+                "rating": 4.0,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-05-25"
+            },
+            {
+                "id": "r3764",
+                "userId": "u58",
+                "rating": 5.0,
+                "comment": "Elegant and classy!",
+                "date": "2024-09-22"
+            }
+        ]
+    },
+    {
+        "id": "42591",
+        "name": "United Colors of Benetton Women Navy Blue Dress",
+        "price": 1160.3,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/1a3cef3b97e20f3a05eab62ea3d40e0c_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8877",
+                "userId": "u72",
+                "rating": 3.9,
+                "comment": "Elegant and classy!",
+                "date": "2024-08-06"
+            },
+            {
+                "id": "r9451",
+                "userId": "u38",
+                "rating": 4.8,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-11-04"
+            }
+        ]
+    },
+    {
+        "id": "10406",
+        "name": "United Colors of Benetton Women Solid Grey Dresses",
+        "price": 1160.2,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/6e87fe4893ca930227d3491f46947783_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4604",
+                "userId": "u70",
+                "rating": 4.7,
+                "comment": "Elegant and classy!",
+                "date": "2024-07-04"
+            },
+            {
+                "id": "r9877",
+                "userId": "u31",
+                "rating": 4.9,
+                "comment": "Absolutely stunning!",
+                "date": "2024-11-04"
+            }
+        ]
+    },
+    {
+        "id": "59980",
+        "name": "Avirate Black & Cream Dress",
+        "price": 1129.15,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black---Cream-Dress_8761708ed8f71493338dc2e66199f174_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8998",
+                "userId": "u35",
+                "rating": 3.9,
+                "comment": "Absolutely stunning!",
+                "date": "2024-12-24"
+            },
+            {
+                "id": "r5356",
+                "userId": "u17",
+                "rating": 4.9,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-04-25"
+            }
+        ]
+    },
+    {
+        "id": "39716",
+        "name": "Arrow Woman Women Blue Dress",
+        "price": 1105.35,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/c5b0d7c1f0308be020655bc10ca16427_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6952",
+                "userId": "u49",
+                "rating": 4.2,
+                "comment": "Elegant and classy!",
                 "date": "2024-08-29"
             },
             {
-                "id": "r6783",
-                "userId": "u46",
-                "rating": 4.4,
-                "comment": "Perfect for daily use.",
-                "date": "2025-03-27"
+                "id": "r4611",
+                "userId": "u32",
+                "rating": 4.7,
+                "comment": "Elegant and classy!",
+                "date": "2024-07-08"
+            }
+        ]
+    },
+    {
+        "id": "8483",
+        "name": "Forever New Women Creme de Menthe Blue Dresses",
+        "price": 1097.41,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/b72505f1886c0f575819d85db0196594_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8849",
+                "userId": "u96",
+                "rating": 4.5,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-08-20"
+            }
+        ]
+    },
+    {
+        "id": "52155",
+        "name": "Femella Women Purple Color Block Dress",
+        "price": 1097.15,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Femella-Women-Purple-Color-Block-Dress_f0ac42267d12cf39309835b25a6bc50e_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4493",
+                "userId": "u1",
+                "rating": 4.3,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-09-11"
             },
             {
-                "id": "r6470",
-                "userId": "u66",
+                "id": "r2406",
+                "userId": "u84",
+                "rating": 4.2,
+                "comment": "Absolutely stunning!",
+                "date": "2024-11-18"
+            }
+        ]
+    },
+    {
+        "id": "40413",
+        "name": "Tonga Women White Dress",
+        "price": 1075.8,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/26476650d93fa4979848793920249c22_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8659",
+                "userId": "u51",
+                "rating": 4.4,
+                "comment": "Elegant and classy!",
+                "date": "2024-05-21"
+            }
+        ]
+    },
+    {
+        "id": "18897",
+        "name": "Arrow Woman Solid Green Dress",
+        "price": 1019.54,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/5ec7f159be2030d4f24ad9da22d20501_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5458",
+                "userId": "u6",
+                "rating": 4.2,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-03-10"
+            }
+        ]
+    },
+    {
+        "id": "57994",
+        "name": "Latin Quarters Women Brown Printed Dress",
+        "price": 1007.86,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Latin-Quarters-Women-Brown-Dress_c6f632e23eb68d8199dda3caa1a21727_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1809",
+                "userId": "u22",
+                "rating": 3.9,
+                "comment": "Elegant and classy!",
+                "date": "2024-09-29"
+            }
+        ]
+    },
+    {
+        "id": "34566",
+        "name": "Tonga Women Printed Blue Dress",
+        "price": 1001.72,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/ac2fdaa2a5e296f1aea875e7dde0f17e_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6885",
+                "userId": "u38",
+                "rating": 4.6,
+                "comment": "Absolutely stunning!",
+                "date": "2024-11-14"
+            }
+        ]
+    },
+    {
+        "id": "44687",
+        "name": "Wills Lifestyle Women Peach A-Line Dress",
+        "price": 977.81,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/41d012d7b5b659099376d9bef6e26560_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6409",
+                "userId": "u21",
+                "rating": 4.3,
+                "comment": "Elegant and classy!",
+                "date": "2024-06-20"
+            }
+        ]
+    },
+    {
+        "id": "13472",
+        "name": "United Colors of Benetton Women Solid White Dress",
+        "price": 977.18,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/7b1b8cdc234c40b4f157b281309bf70e_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8336",
+                "userId": "u12",
+                "rating": 3.9,
+                "comment": "Elegant and classy!",
+                "date": "2024-08-18"
+            }
+        ]
+    },
+    {
+        "id": "43508",
+        "name": "French Connection Women Navy Blue Striped Dress",
+        "price": 951.65,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/657bd13033f4ebe08c104a54c15e0619_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6041",
+                "userId": "u27",
+                "rating": 4.7,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-04-06"
+            },
+            {
+                "id": "r4527",
+                "userId": "u16",
+                "rating": 4.6,
+                "comment": "Absolutely stunning!",
+                "date": "2024-08-31"
+            },
+            {
+                "id": "r6898",
+                "userId": "u80",
+                "rating": 5.0,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-11-28"
+            }
+        ]
+    },
+    {
+        "id": "34567",
+        "name": "Tonga Women Printed Black Dress",
+        "price": 948.99,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/81369b47dd26791f489edc98818af321_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3556",
+                "userId": "u49",
+                "rating": 3.8,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-10-16"
+            }
+        ]
+    },
+    {
+        "id": "59967",
+        "name": "Avirate Women Black Dress",
+        "price": 928.75,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Party occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Women-Black-Dress_ba98a43386b31d45f56b1e8e0cb1181a_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1960",
+                "userId": "u37",
+                "rating": 4.4,
+                "comment": "Elegant and classy!",
+                "date": "2024-11-28"
+            },
+            {
+                "id": "r2774",
+                "userId": "u85",
+                "rating": 4.1,
+                "comment": "Elegant and classy!",
+                "date": "2025-02-21"
+            },
+            {
+                "id": "r4002",
+                "userId": "u84",
+                "rating": 4.8,
+                "comment": "Elegant and classy!",
+                "date": "2024-10-24"
+            }
+        ]
+    },
+    {
+        "id": "52162",
+        "name": "Femella Women Black Striped Tank Dress",
+        "price": 918.67,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/e2f7566b4cde1590facc4cdfb3e2668c_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2149",
+                "userId": "u14",
+                "rating": 4.2,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-06-11"
+            },
+            {
+                "id": "r4815",
+                "userId": "u38",
+                "rating": 3.6,
+                "comment": "Elegant and classy!",
+                "date": "2024-12-05"
+            },
+            {
+                "id": "r6867",
+                "userId": "u60",
+                "rating": 4.1,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-11-05"
+            }
+        ]
+    },
+    {
+        "id": "57060",
+        "name": "Elle Women Teal Dress",
+        "price": 907.95,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Teal-Dress_441671d05b165db8a771a1fce8686bc9_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1004",
+                "userId": "u16",
+                "rating": 4.3,
+                "comment": "Absolutely stunning!",
+                "date": "2024-05-24"
+            }
+        ]
+    },
+    {
+        "id": "34592",
+        "name": "Tonga Women Printed Black Dress",
+        "price": 859.57,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/3b0192a90f9b668ff39f00d88beedb54_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4535",
+                "userId": "u29",
+                "rating": 4.8,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-03-08"
+            }
+        ]
+    },
+    {
+        "id": "43302",
+        "name": "United Colors of Benetton Women Purple Dress",
+        "price": 856.25,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/United-Colors-of-Benetton-Women-Purple-Dress_ce19642ae477843da4871814402090dc_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2012",
+                "userId": "u42",
+                "rating": 3.6,
+                "comment": "Elegant and classy!",
+                "date": "2024-07-02"
+            },
+            {
+                "id": "r1199",
+                "userId": "u87",
+                "rating": 3.9,
+                "comment": "Absolutely stunning!",
+                "date": "2024-04-30"
+            }
+        ]
+    },
+    {
+        "id": "48480",
+        "name": "French Connection Women Black Dress",
+        "price": 851.21,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Party occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/French-Connection-Women-Black-Dress_65b08cc78545e065b424ccc5fb7da502_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4605",
+                "userId": "u36",
+                "rating": 3.9,
+                "comment": "Absolutely stunning!",
+                "date": "2024-07-10"
+            },
+            {
+                "id": "r5294",
+                "userId": "u91",
                 "rating": 3.7,
-                "comment": "Amazing product!",
-                "date": "2025-04-04"
+                "comment": "Loved the quality and fit.",
+                "date": "2025-02-02"
+            }
+        ]
+    },
+    {
+        "id": "18758",
+        "name": "Arrow Woman Bling Black Dress",
+        "price": 840.81,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/b7e98f33a7641106b1ee04ef13df585e_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7471",
+                "userId": "u6",
+                "rating": 3.6,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-10-25"
+            },
+            {
+                "id": "r8954",
+                "userId": "u28",
+                "rating": 3.9,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-07-06"
+            },
+            {
+                "id": "r7847",
+                "userId": "u79",
+                "rating": 3.5,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-07-02"
+            }
+        ]
+    },
+    {
+        "id": "51465",
+        "name": "Tonga Women Teal Dress",
+        "price": 819.08,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/906b752bd8f5c7c6a01aa1bc57d03a5c_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7313",
+                "userId": "u79",
+                "rating": 3.6,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-04-25"
+            },
+            {
+                "id": "r6408",
+                "userId": "u28",
+                "rating": 3.8,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-08-30"
+            }
+        ]
+    },
+    {
+        "id": "43509",
+        "name": "French Connection Women Grey Melange Dress",
+        "price": 814.85,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/42670ddbde5e326bd690bfff34e8d26f_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3884",
+                "userId": "u23",
+                "rating": 4.4,
+                "comment": "Elegant and classy!",
+                "date": "2024-10-18"
+            },
+            {
+                "id": "r4259",
+                "userId": "u89",
+                "rating": 4.0,
+                "comment": "Absolutely stunning!",
+                "date": "2025-01-14"
+            }
+        ]
+    },
+    {
+        "id": "48525",
+        "name": "French Connection Women White & Blue  Striped Dress",
+        "price": 811.62,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/13a4a6cacd48d54b58c9b016922cdf04_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6572",
+                "userId": "u41",
+                "rating": 3.8,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-04-06"
+            },
+            {
+                "id": "r2037",
+                "userId": "u27",
+                "rating": 4.4,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-04-11"
+            },
+            {
+                "id": "r7698",
+                "userId": "u54",
+                "rating": 4.1,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-11-08"
+            }
+        ]
+    },
+    {
+        "id": "48474",
+        "name": "French Connection Women Black Dress",
+        "price": 792.78,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/French-Connection-Women-Black-Dress_50360aa220445f49cef887665bfe7523_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3845",
+                "userId": "u69",
+                "rating": 3.6,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-12-08"
+            },
+            {
+                "id": "r8727",
+                "userId": "u21",
+                "rating": 4.9,
+                "comment": "Absolutely stunning!",
+                "date": "2024-05-25"
+            }
+        ]
+    },
+    {
+        "id": "43637",
+        "name": "Vero Moda Women Pink Dress",
+        "price": 779.44,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Vero-Moda-Women-Peach-Dress_290adcece7ff314c1e04579c992f4aea_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5360",
+                "userId": "u21",
+                "rating": 3.6,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-01-06"
+            },
+            {
+                "id": "r7387",
+                "userId": "u55",
+                "rating": 3.9,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-03-09"
+            }
+        ]
+    },
+    {
+        "id": "48475",
+        "name": "French Connection Women Black Printed Dress",
+        "price": 773.45,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/French-Connection-Women-Black-Dress_ea1c06eed2b61d0d9202258a12dbd02a_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3606",
+                "userId": "u45",
+                "rating": 3.8,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-11-04"
+            },
+            {
+                "id": "r3427",
+                "userId": "u86",
+                "rating": 3.6,
+                "comment": "Absolutely stunning!",
+                "date": "2024-05-28"
+            },
+            {
+                "id": "r6177",
+                "userId": "u56",
+                "rating": 3.6,
+                "comment": "Absolutely stunning!",
+                "date": "2025-03-07"
+            }
+        ]
+    },
+    {
+        "id": "10365",
+        "name": "United Colors of Benetton Women Short Black Dresses",
+        "price": 772.61,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/056b66c3bfa50463b8a94b65f2aa3220_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4788",
+                "userId": "u62",
+                "rating": 4.6,
+                "comment": "Absolutely stunning!",
+                "date": "2024-07-12"
+            },
+            {
+                "id": "r6661",
+                "userId": "u86",
+                "rating": 4.3,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-06-21"
+            }
+        ]
+    },
+    {
+        "id": "43652",
+        "name": "ONLY Women Pink Dress",
+        "price": 765.46,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/ONLY-Women-Pink-Dress_32acc5825df6d1ca48d29ba97e9f3186_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5475",
+                "userId": "u75",
+                "rating": 4.6,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-05-20"
+            },
+            {
+                "id": "r3101",
+                "userId": "u48",
+                "rating": 4.7,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-01-06"
+            }
+        ]
+    },
+    {
+        "id": "38839",
+        "name": "Latin Quarters Women Black Printed Dress",
+        "price": 752.5,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/96d3568f04d0b132df06d008d81ef14b_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5039",
+                "userId": "u86",
+                "rating": 3.7,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-11-20"
+            }
+        ]
+    },
+    {
+        "id": "43648",
+        "name": "ONLY Women Cream A-Line Dress",
+        "price": 704.04,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/9fe3d8c9c31b0d79a2fd85113a8a4ec8_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8070",
+                "userId": "u38",
+                "rating": 4.9,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-05-11"
+            },
+            {
+                "id": "r4687",
+                "userId": "u32",
+                "rating": 3.8,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-11-25"
+            }
+        ]
+    },
+    {
+        "id": "57035",
+        "name": "Forever New Women Multi Coloured Dress",
+        "price": 703.19,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Forever-New-Women-Multi-Coloured-Dress_2e4727d7277254b5f7ec1793ac7fc2ae_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3512",
+                "userId": "u39",
+                "rating": 4.8,
+                "comment": "Elegant and classy!",
+                "date": "2024-06-05"
+            },
+            {
+                "id": "r6641",
+                "userId": "u17",
+                "rating": 4.0,
+                "comment": "Absolutely stunning!",
+                "date": "2024-11-22"
+            },
+            {
+                "id": "r3176",
+                "userId": "u28",
+                "rating": 4.6,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-07-25"
+            }
+        ]
+    },
+    {
+        "id": "57993",
+        "name": "Latin Quarters Women Beige Dress",
+        "price": 688.73,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Latin-Quarters-Women-Beige-Dress_ae4fab2cceed5068da74f4091faf6a0e_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2000",
+                "userId": "u24",
+                "rating": 4.6,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-01-12"
+            },
+            {
+                "id": "r6715",
+                "userId": "u40",
+                "rating": 4.1,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-03-17"
+            },
+            {
+                "id": "r9336",
+                "userId": "u100",
+                "rating": 4.0,
+                "comment": "Absolutely stunning!",
+                "date": "2024-12-01"
+            }
+        ]
+    },
+    {
+        "id": "59988",
+        "name": "Avirate Black & Silvery Grey Dress",
+        "price": 677.64,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Party occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black---Silver-Dress_f395f6390ec6272b477b98770fa6c77d_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7482",
+                "userId": "u9",
+                "rating": 4.2,
+                "comment": "Absolutely stunning!",
+                "date": "2024-09-16"
+            },
+            {
+                "id": "r3745",
+                "userId": "u53",
+                "rating": 4.8,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-03-04"
+            },
+            {
+                "id": "r3753",
+                "userId": "u67",
+                "rating": 4.0,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-10-01"
+            }
+        ]
+    },
+    {
+        "id": "59972",
+        "name": "Avirate Black Dress",
+        "price": 658.9,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Party occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black-Dress_003a1a776384c2d5d292bbeb0de338b1_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1565",
+                "userId": "u64",
+                "rating": 4.4,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-06-13"
+            },
+            {
+                "id": "r3370",
+                "userId": "u100",
+                "rating": 4.1,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-01-02"
+            },
+            {
+                "id": "r7119",
+                "userId": "u95",
+                "rating": 3.9,
+                "comment": "Absolutely stunning!",
+                "date": "2024-05-10"
+            }
+        ]
+    },
+    {
+        "id": "42209",
+        "name": "Sepia Women Purple Dress",
+        "price": 658.72,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/8d0017b570061dd5f1a8c520a2f946ce_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6228",
+                "userId": "u24",
+                "rating": 3.9,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-11-05"
+            },
+            {
+                "id": "r8272",
+                "userId": "u26",
+                "rating": 4.5,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-11-25"
+            }
+        ]
+    },
+    {
+        "id": "59969",
+        "name": "Avirate Black Dress",
+        "price": 596.12,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black-Dress_cac407bc1a1a71923e8ea7916b4030d3_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5993",
+                "userId": "u55",
+                "rating": 3.7,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-11-18"
+            }
+        ]
+    },
+    {
+        "id": "44688",
+        "name": "Wills Lifestyle Women Off White Dress",
+        "price": 592.92,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/b9ae51c2d0488f7d738dfbedbad3e609_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9289",
+                "userId": "u1",
+                "rating": 4.5,
+                "comment": "Absolutely stunning!",
+                "date": "2025-01-18"
+            },
+            {
+                "id": "r8710",
+                "userId": "u47",
+                "rating": 3.9,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-02-20"
+            }
+        ]
+    },
+    {
+        "id": "47655",
+        "name": "Femella Women Grey Polka Dotted Dress",
+        "price": 592.13,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/780a4bd344562d022f5db70ea58a8a62_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8705",
+                "userId": "u6",
+                "rating": 4.4,
+                "comment": "Absolutely stunning!",
+                "date": "2024-10-21"
+            },
+            {
+                "id": "r5464",
+                "userId": "u54",
+                "rating": 4.0,
+                "comment": "Elegant and classy!",
+                "date": "2025-03-29"
+            },
+            {
+                "id": "r9923",
+                "userId": "u21",
+                "rating": 4.8,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-02-25"
+            }
+        ]
+    },
+    {
+        "id": "54971",
+        "name": "Femella Women Grey Dress",
+        "price": 588.13,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Femella-Women-Grey---Pink-Dress_30781b65c30ca64905082aa43707476c_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6723",
+                "userId": "u4",
+                "rating": 4.9,
+                "comment": "Elegant and classy!",
+                "date": "2024-07-22"
+            },
+            {
+                "id": "r1078",
+                "userId": "u37",
+                "rating": 3.8,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-07-02"
+            }
+        ]
+    },
+    {
+        "id": "38837",
+        "name": "Latin Quarters Women Pink Printed Dress",
+        "price": 564.71,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/b67f9cb554e2c4074ae071d8fc5bb03b_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5808",
+                "userId": "u13",
+                "rating": 4.0,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-12-05"
+            }
+        ]
+    },
+    {
+        "id": "57057",
+        "name": "Elle Women Red A-Line Dress",
+        "price": 563.14,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Red-Dress_c1bb0d0767284c1066c3eb8bcfd35a53_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7369",
+                "userId": "u75",
+                "rating": 4.8,
+                "comment": "Elegant and classy!",
+                "date": "2024-10-08"
+            }
+        ]
+    },
+    {
+        "id": "57044",
+        "name": "Elle Women Black Dress",
+        "price": 518.26,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Party occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Black-Dress_21c4d13df1c9f7856583aba9c91f91a7_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3314",
+                "userId": "u60",
+                "rating": 3.8,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-09-23"
+            }
+        ]
+    },
+    {
+        "id": "37198",
+        "name": "United Colors of Benetton Women Check Red Dress",
+        "price": 517.29,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/70e12214d3b594d7bed6b7d2b72a8de0_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8859",
+                "userId": "u71",
+                "rating": 4.3,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-06-25"
+            }
+        ]
+    },
+    {
+        "id": "34588",
+        "name": "Tonga Women Cream Dress",
+        "price": 492.39,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/c712e141137c41ec81761211541849d0_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8948",
+                "userId": "u56",
+                "rating": 4.9,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-02-06"
+            }
+        ]
+    },
+    {
+        "id": "59981",
+        "name": "Avirate  Black & Purple Women Dress",
+        "price": 456.14,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Party occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black---Purple-Women-Dress_b4f095c7a423d170e39cf78f1e9f4351_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9905",
+                "userId": "u86",
+                "rating": 4.1,
+                "comment": "Elegant and classy!",
+                "date": "2024-11-20"
+            },
+            {
+                "id": "r6178",
+                "userId": "u52",
+                "rating": 4.6,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-07-02"
+            },
+            {
+                "id": "r5314",
+                "userId": "u4",
+                "rating": 4.7,
+                "comment": "Elegant and classy!",
+                "date": "2024-04-27"
+            }
+        ]
+    },
+    {
+        "id": "48472",
+        "name": "French Connection Black Dress",
+        "price": 413.08,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/French-Connection-Black-Dress_e0e9f83d59bbf9d3e5b0c84734804f19_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7303",
+                "userId": "u86",
+                "rating": 4.2,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-01-06"
+            },
+            {
+                "id": "r1152",
+                "userId": "u27",
+                "rating": 4.9,
+                "comment": "Absolutely stunning!",
+                "date": "2024-07-04"
+            }
+        ]
+    },
+    {
+        "id": "8479",
+        "name": "Forever New Women Blossom Silk Cream Dress",
+        "price": 406.03,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/33abe02e37b16010b068ebc37de2b42a_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8481",
+                "userId": "u1",
+                "rating": 4.0,
+                "comment": "Absolutely stunning!",
+                "date": "2024-12-06"
+            },
+            {
+                "id": "r1871",
+                "userId": "u40",
+                "rating": 5.0,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-07-04"
+            }
+        ]
+    },
+    {
+        "id": "59992",
+        "name": "Avirate Black & White Dress",
+        "price": 398.9,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black---White-Dress_9d56786501d7646f68343047c0ab7ec0_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9236",
+                "userId": "u84",
+                "rating": 3.8,
+                "comment": "Absolutely stunning!",
+                "date": "2024-07-19"
+            },
+            {
+                "id": "r4925",
+                "userId": "u46",
+                "rating": 4.2,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-07-26"
+            }
+        ]
+    },
+    {
+        "id": "40431",
+        "name": "Tonga Women Navy Blue Dress",
+        "price": 387.38,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/e229ad3c48766067460ae5811ed26dd6_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4671",
+                "userId": "u3",
+                "rating": 4.8,
+                "comment": "Elegant and classy!",
+                "date": "2024-10-11"
+            }
+        ]
+    },
+    {
+        "id": "59995",
+        "name": "Avirate Black Dress",
+        "price": 386.88,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Party occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Black-Dress_0e9668149b4250ac84cdc6256ccc9584_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6683",
+                "userId": "u63",
+                "rating": 4.8,
+                "comment": "Absolutely stunning!",
+                "date": "2024-06-03"
+            },
+            {
+                "id": "r8780",
+                "userId": "u86",
+                "rating": 3.7,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-02-22"
+            }
+        ]
+    },
+    {
+        "id": "57051",
+        "name": "Elle Women Multi Coloured Dress",
+        "price": 384.98,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Multi-Coloured-Dress_99a09d3142fa5f162029568fbe5c477c_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9068",
+                "userId": "u32",
+                "rating": 3.9,
+                "comment": "Absolutely stunning!",
+                "date": "2024-12-01"
+            },
+            {
+                "id": "r4009",
+                "userId": "u22",
+                "rating": 4.3,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-09-21"
+            }
+        ]
+    },
+    {
+        "id": "48524",
+        "name": "French Connection Women White Dress",
+        "price": 384.23,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/51d1dc06f641054e87aaaab4a3218334_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2410",
+                "userId": "u61",
+                "rating": 4.9,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-10-19"
+            },
+            {
+                "id": "r3722",
+                "userId": "u92",
+                "rating": 3.9,
+                "comment": "Elegant and classy!",
+                "date": "2025-01-05"
+            },
+            {
+                "id": "r1297",
+                "userId": "u21",
+                "rating": 4.2,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-08-09"
+            }
+        ]
+    },
+    {
+        "id": "34581",
+        "name": "Tonga Women Maroon Dress",
+        "price": 380.32,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/0c98f19798420fdd1d03274f33203358_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5392",
+                "userId": "u61",
+                "rating": 4.8,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-01-11"
+            },
+            {
+                "id": "r9529",
+                "userId": "u5",
+                "rating": 3.9,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-04-19"
+            },
+            {
+                "id": "r9762",
+                "userId": "u59",
+                "rating": 3.7,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-06-05"
+            }
+        ]
+    },
+    {
+        "id": "58002",
+        "name": "Latin Quarters Women Green Printed Dress",
+        "price": 377.74,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Latin-Quarters-Women-Green-Dress_187652b358bd30be6df01e4313946c17_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6106",
+                "userId": "u10",
+                "rating": 4.2,
+                "comment": "Absolutely stunning!",
+                "date": "2025-04-23"
+            },
+            {
+                "id": "r3397",
+                "userId": "u14",
+                "rating": 4.3,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-06-26"
+            },
+            {
+                "id": "r3843",
+                "userId": "u72",
+                "rating": 4.3,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-03-21"
+            }
+        ]
+    },
+    {
+        "id": "38836",
+        "name": "Latin Quarters Women Blue Dress",
+        "price": 357.77,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/763f9e470bd759e5a6590f9fdfb997c1_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4562",
+                "userId": "u98",
+                "rating": 4.3,
+                "comment": "Absolutely stunning!",
+                "date": "2024-06-13"
+            },
+            {
+                "id": "r7940",
+                "userId": "u58",
+                "rating": 4.7,
+                "comment": "Elegant and classy!",
+                "date": "2024-12-15"
+            },
+            {
+                "id": "r6834",
+                "userId": "u26",
+                "rating": 4.3,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-02-24"
+            }
+        ]
+    },
+    {
+        "id": "59994",
+        "name": "Avirate Black Formal Dress",
+        "price": 354.03,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Formal occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Avirate-Women-Black-Dress_17229bac36c089bfa356f99208619a9c_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5416",
+                "userId": "u82",
+                "rating": 4.1,
+                "comment": "Highly recommended for parties.",
+                "date": "2025-04-19"
+            },
+            {
+                "id": "r2666",
+                "userId": "u13",
+                "rating": 3.5,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-02-12"
+            }
+        ]
+    },
+    {
+        "id": "43653",
+        "name": "ONLY Women Peach Dress",
+        "price": 353.66,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/ONLY-Women-Peach-Dress_c555dd93f4f5c013494b4112310b1bc3_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6298",
+                "userId": "u49",
+                "rating": 4.4,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-09-02"
+            },
+            {
+                "id": "r5345",
+                "userId": "u87",
+                "rating": 4.4,
+                "comment": "Absolutely stunning!",
+                "date": "2024-07-19"
+            },
+            {
+                "id": "r2174",
+                "userId": "u35",
+                "rating": 4.5,
+                "comment": "Absolutely stunning!",
+                "date": "2024-12-01"
+            }
+        ]
+    },
+    {
+        "id": "57061",
+        "name": "Elle Women Black Dress",
+        "price": 325.58,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-Black-Dress_dcf160783c153ec27614e7849e50e4f7_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3445",
+                "userId": "u6",
+                "rating": 3.6,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-10-11"
+            },
+            {
+                "id": "r9767",
+                "userId": "u14",
+                "rating": 4.4,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-09-12"
+            },
+            {
+                "id": "r8307",
+                "userId": "u12",
+                "rating": 5.0,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-06-28"
+            }
+        ]
+    },
+    {
+        "id": "38830",
+        "name": "Latin Quarters Women Navy Blue Printed Dress",
+        "price": 323.02,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/6523fac5f01650fdfe0af4f53c4bcb9e_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8476",
+                "userId": "u88",
+                "rating": 5.0,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-06-25"
+            },
+            {
+                "id": "r7488",
+                "userId": "u90",
+                "rating": 4.2,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-03-21"
+            }
+        ]
+    },
+    {
+        "id": "33199",
+        "name": "Sepia Women Printed Red Dress",
+        "price": 315.81,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/db37fb21dc9268b9fec9948535ee47f3_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8470",
+                "userId": "u10",
+                "rating": 4.3,
+                "comment": "Absolutely stunning!",
+                "date": "2025-03-06"
+            },
+            {
+                "id": "r2630",
+                "userId": "u49",
+                "rating": 4.9,
+                "comment": "Elegant and classy!",
+                "date": "2024-08-07"
+            },
+            {
+                "id": "r8230",
+                "userId": "u82",
+                "rating": 4.1,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-10-07"
+            }
+        ]
+    },
+    {
+        "id": "34586",
+        "name": "Tonga Women Printed Black Dress",
+        "price": 280.27,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/02a149e996ae237ff2823b3051ecbc5e_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7769",
+                "userId": "u39",
+                "rating": 3.8,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-09-13"
+            },
+            {
+                "id": "r5060",
+                "userId": "u89",
+                "rating": 3.6,
+                "comment": "Absolutely stunning!",
+                "date": "2024-06-21"
+            },
+            {
+                "id": "r9494",
+                "userId": "u30",
+                "rating": 4.8,
+                "comment": "Elegant and classy!",
+                "date": "2024-10-18"
+            }
+        ]
+    },
+    {
+        "id": "44681",
+        "name": "Wills Lifestyle Women White Dress",
+        "price": 274.43,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/a3ef4670895892c63c5084d20541f0ea_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5997",
+                "userId": "u48",
+                "rating": 4.2,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-09-14"
+            }
+        ]
+    },
+    {
+        "id": "47676",
+        "name": "Femella Women Black Animal Print Dress",
+        "price": 258.37,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/3c414a4a1253b6474fb09d08c39241a4_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6916",
+                "userId": "u46",
+                "rating": 4.8,
+                "comment": "Loved the quality and fit.",
+                "date": "2024-04-30"
+            },
+            {
+                "id": "r1507",
+                "userId": "u59",
+                "rating": 4.8,
+                "comment": "Absolutely stunning!",
+                "date": "2024-06-24"
+            }
+        ]
+    },
+    {
+        "id": "58493",
+        "name": "Tonga Women Grey Dress",
+        "price": 236.03,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Tonga-Women-Grey-Dress_85699efa1b3a8648e1ae04fa4a341526_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7979",
+                "userId": "u94",
+                "rating": 3.9,
+                "comment": "Perfect for special occasions!",
+                "date": "2025-03-06"
+            }
+        ]
+    },
+    {
+        "id": "6874",
+        "name": "Forever New Women Pink Sleeveless Dress",
+        "price": 225.93,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/e08b8eda1d0c1b7819fc7c4359ca67d4_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1749",
+                "userId": "u2",
+                "rating": 4.7,
+                "comment": "Loved the quality and fit.",
+                "date": "2025-03-07"
+            },
+            {
+                "id": "r8295",
+                "userId": "u15",
+                "rating": 4.1,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-12-30"
+            }
+        ]
+    },
+    {
+        "id": "57056",
+        "name": "Elle Women White Shift Dress",
+        "price": 221.32,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Elle-Women-White-Dress_1fd9d94725f3875ce4ffccdb7055fb35_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7264",
+                "userId": "u56",
+                "rating": 4.2,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-12-30"
+            },
+            {
+                "id": "r3450",
+                "userId": "u69",
+                "rating": 3.8,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-10-07"
+            },
+            {
+                "id": "r6333",
+                "userId": "u59",
+                "rating": 3.9,
+                "comment": "Elegant and classy!",
+                "date": "2024-10-16"
+            }
+        ]
+    },
+    {
+        "id": "18735",
+        "name": "Arrow Woman Rima Purple Dress",
+        "price": 142.11,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/8d48138c8ea71d35f297f2cc2579ee3b_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9582",
+                "userId": "u95",
+                "rating": 3.6,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-09-27"
+            },
+            {
+                "id": "r4616",
+                "userId": "u64",
+                "rating": 3.7,
+                "comment": "Elegant and classy!",
+                "date": "2024-07-02"
+            },
+            {
+                "id": "r4991",
+                "userId": "u5",
+                "rating": 5.0,
+                "comment": "Absolutely stunning!",
+                "date": "2024-09-27"
+            }
+        ]
+    },
+    {
+        "id": "57995",
+        "name": "Latin Quarters Women & White Black Dress",
+        "price": 130.24,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Latin-Quarters-Women-Black-Dress_91d19b8598579c1901a632e94e923a24_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1091",
+                "userId": "u13",
+                "rating": 3.8,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-10-11"
+            },
+            {
+                "id": "r6477",
+                "userId": "u36",
+                "rating": 4.9,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-07-14"
+            }
+        ]
+    },
+    {
+        "id": "34572",
+        "name": "Tonga Women Printed Black Dress",
+        "price": 80.73,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/3a9f0e6a91b98d87e67f855479353e78_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5795",
+                "userId": "u23",
+                "rating": 3.9,
+                "comment": "Absolutely stunning!",
+                "date": "2025-02-19"
+            },
+            {
+                "id": "r1506",
+                "userId": "u67",
+                "rating": 4.7,
+                "comment": "Absolutely stunning!",
+                "date": "2024-05-28"
+            },
+            {
+                "id": "r5320",
+                "userId": "u19",
+                "rating": 3.6,
+                "comment": "Perfect for special occasions!",
+                "date": "2024-11-21"
+            }
+        ]
+    },
+    {
+        "id": "40430",
+        "name": "Tonga Women Grey Dress",
+        "price": 74.38,
+        "description": "Elevate your style with this Dresses from Apparel, perfect for Casual occasions.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/96736ddbdeccefcaa34eff775f9eef7f_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1265",
+                "userId": "u21",
+                "rating": 4.4,
+                "comment": "Highly recommended for parties.",
+                "date": "2024-07-24"
             }
         ]
     }

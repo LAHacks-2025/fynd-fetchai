@@ -2,278 +2,1500 @@
     {
         "id": "9204",
         "name": "Puma Men Future Cat Remix SF Black Casual Shoes",
-        "price": 44.59,
+        "price": 1352.83,
         "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
         "images": [
             "http://assets.myntassets.com/v1/images/style/properties/051d64772f1b38ff476fbf0a807f365a_images.jpg"
         ],
         "reviews": [
             {
-                "id": "r1983",
-                "userId": "u56",
-                "rating": 3.5,
-                "comment": "Amazing product!",
-                "date": "2024-09-12"
+                "id": "r1833",
+                "userId": "u10",
+                "rating": 3.3,
+                "comment": "Highly recommended!",
+                "date": "2025-02-19"
             },
             {
-                "id": "r5572",
-                "userId": "u90",
-                "rating": 4.9,
-                "comment": "Amazing product!",
-                "date": "2025-02-06"
-            },
-            {
-                "id": "r5569",
-                "userId": "u5",
-                "rating": 3.5,
+                "id": "r7151",
+                "userId": "u60",
+                "rating": 4.3,
                 "comment": "Loved it!",
-                "date": "2024-08-04"
+                "date": "2024-09-30"
+            }
+        ]
+    },
+    {
+        "id": "18653",
+        "name": "Fila Men Cush Flex Black Slippers",
+        "price": 597.51,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/53690e3f396f411e184b249672d6ebae_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8725",
+                "userId": "u53",
+                "rating": 4.8,
+                "comment": "Highly recommended!",
+                "date": "2024-09-04"
+            },
+            {
+                "id": "r4705",
+                "userId": "u44",
+                "rating": 3.1,
+                "comment": "Good value for money.",
+                "date": "2025-02-25"
+            }
+        ]
+    },
+    {
+        "id": "46885",
+        "name": "Ben 10 Boys Navy Blue Slippers",
+        "price": 399.58,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/5cab6a2305d0e63142f721228aa6d293_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3975",
+                "userId": "u9",
+                "rating": 4.6,
+                "comment": "Amazing product!",
+                "date": "2025-03-26"
+            },
+            {
+                "id": "r7012",
+                "userId": "u54",
+                "rating": 4.3,
+                "comment": "Highly recommended!",
+                "date": "2025-02-25"
+            },
+            {
+                "id": "r3199",
+                "userId": "u55",
+                "rating": 4.6,
+                "comment": "Good value for money.",
+                "date": "2025-04-14"
             }
         ]
     },
     {
         "id": "12967",
         "name": "ADIDAS Men Spry M Black Sandals",
-        "price": 1269.13,
+        "price": 1492.08,
         "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
         "images": [
             "http://assets.myntassets.com/v1/images/style/properties/c5a22e9ccf9b10e0a89ffbbf3e386584_images.jpg"
         ],
         "reviews": [
             {
-                "id": "r4708",
-                "userId": "u84",
-                "rating": 4.8,
-                "comment": "Amazing product!",
-                "date": "2024-07-01"
-            },
-            {
-                "id": "r5787",
-                "userId": "u97",
-                "rating": 3.0,
-                "comment": "Good value for money.",
-                "date": "2024-11-25"
-            },
-            {
-                "id": "r2396",
-                "userId": "u47",
-                "rating": 3.5,
-                "comment": "Amazing product!",
-                "date": "2024-09-14"
-            }
-        ]
-    },
-    {
-        "id": "9036",
-        "name": "Buckaroo Men Flores Black Formal Shoes",
-        "price": 25.13,
-        "description": "Experience the best of Footwear with this Formal Shoes, ideal for Formal.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/06edc2da9c6d103d299e5e8dafc5b6b9_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r7106",
-                "userId": "u83",
+                "id": "r1807",
+                "userId": "u49",
                 "rating": 3.6,
-                "comment": "Amazing product!",
-                "date": "2025-01-23"
-            },
-            {
-                "id": "r5134",
-                "userId": "u4",
-                "rating": 3.2,
                 "comment": "Good value for money.",
-                "date": "2024-11-10"
+                "date": "2025-03-02"
             },
             {
-                "id": "r4147",
-                "userId": "u89",
-                "rating": 4.4,
+                "id": "r7524",
+                "userId": "u44",
+                "rating": 4.5,
                 "comment": "Loved it!",
-                "date": "2024-09-13"
+                "date": "2025-04-19"
+            },
+            {
+                "id": "r2808",
+                "userId": "u58",
+                "rating": 4.0,
+                "comment": "Amazing product!",
+                "date": "2024-05-10"
             }
         ]
     },
     {
         "id": "39988",
         "name": "Gas Men Europa White Shoes",
-        "price": 645.03,
+        "price": 1526.99,
         "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
         "images": [
             "http://assets.myntassets.com/v1/images/style/properties/9c3d77147758ab10f12caf6184fe13ef_images.jpg"
         ],
         "reviews": [
             {
-                "id": "r9438",
-                "userId": "u9",
-                "rating": 3.9,
-                "comment": "Perfect for daily use.",
-                "date": "2024-07-02"
-            }
-        ]
-    },
-    {
-        "id": "59051",
-        "name": "Carlton London Women Black & Gold Toned Flats",
-        "price": 1633.34,
-        "description": "Experience the best of Footwear with this Flats, ideal for Casual.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/Carlton-London-Women-Black-Gladiator-Sandals_b8f695202ccc1889f65d57b4000a888f_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r3137",
-                "userId": "u43",
-                "rating": 3.3,
-                "comment": "Loved it!",
-                "date": "2024-05-05"
-            },
-            {
-                "id": "r3745",
-                "userId": "u2",
-                "rating": 4.4,
-                "comment": "Not bad, could be better.",
-                "date": "2024-04-27"
-            }
-        ]
-    },
-    {
-        "id": "2886",
-        "name": "Catwalk Women Leather Brown Flats",
-        "price": 603.82,
-        "description": "Experience the best of Footwear with this Flats, ideal for Casual.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/94a9deea53125663d9bbe61cb38b84b4_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r7655",
-                "userId": "u52",
-                "rating": 3.5,
-                "comment": "Good value for money.",
-                "date": "2024-05-25"
-            },
-            {
-                "id": "r8760",
-                "userId": "u62",
-                "rating": 3.4,
-                "comment": "Loved it!",
-                "date": "2024-08-14"
-            },
-            {
-                "id": "r5300",
-                "userId": "u88",
-                "rating": 4.1,
-                "comment": "Perfect for daily use.",
-                "date": "2024-05-20"
-            }
-        ]
-    },
-    {
-        "id": "3168",
-        "name": "Nike Men's Incinerate MSL White Blue Shoe",
-        "price": 1148.34,
-        "description": "Experience the best of Footwear with this Sports Shoes, ideal for Sports.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/4eff2353c62ec8b7bca9fbbaf5996bd2_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r8892",
-                "userId": "u75",
-                "rating": 4.6,
-                "comment": "Good value for money.",
-                "date": "2024-12-21"
-            }
-        ]
-    },
-    {
-        "id": "10268",
-        "name": "Clarks Men Hang Work Leather Black Formal Shoes",
-        "price": 1155.91,
-        "description": "Experience the best of Footwear with this Formal Shoes, ideal for Formal.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/2976e4095e7b3ae2de99df54d2adeaaa_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r6715",
+                "id": "r3520",
                 "userId": "u32",
-                "rating": 4.7,
-                "comment": "Amazing product!",
-                "date": "2024-05-07"
-            },
-            {
-                "id": "r4115",
-                "userId": "u87",
-                "rating": 4.0,
-                "comment": "Highly recommended!",
-                "date": "2024-05-14"
-            },
-            {
-                "id": "r7624",
-                "userId": "u31",
-                "rating": 3.9,
-                "comment": "Highly recommended!",
-                "date": "2024-11-06"
-            }
-        ]
-    },
-    {
-        "id": "59435",
-        "name": "Arrow Men Black Formal Shoes",
-        "price": 1423.45,
-        "description": "Experience the best of Footwear with this Formal Shoes, ideal for Formal.",
-        "images": [
-            "http://assets.myntassets.com/v1/images/style/properties/Arrow-Men-Black-Formal-Shoes_70a3c7c185338a5636c8c0e668829bb6_images.jpg"
-        ],
-        "reviews": [
-            {
-                "id": "r6197",
-                "userId": "u20",
-                "rating": 3.8,
-                "comment": "Loved it!",
-                "date": "2025-01-25"
-            },
-            {
-                "id": "r9108",
-                "userId": "u80",
-                "rating": 3.6,
-                "comment": "Amazing product!",
-                "date": "2025-02-13"
-            },
-            {
-                "id": "r1054",
-                "userId": "u3",
-                "rating": 3.5,
+                "rating": 4.4,
                 "comment": "Good value for money.",
-                "date": "2025-03-13"
+                "date": "2024-06-29"
+            },
+            {
+                "id": "r3202",
+                "userId": "u7",
+                "rating": 3.1,
+                "comment": "Not bad, could be better.",
+                "date": "2024-07-22"
+            },
+            {
+                "id": "r6606",
+                "userId": "u2",
+                "rating": 3.1,
+                "comment": "Not bad, could be better.",
+                "date": "2024-08-05"
             }
         ]
     },
     {
         "id": "22198",
         "name": "Timberland Men Black Casual Shoes",
-        "price": 1420.79,
+        "price": 491.16,
         "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
         "images": [
             "http://assets.myntassets.com/v1/images/style/properties/70e74ca34b3b534b19d6b006d5bfad0a_images.jpg"
         ],
         "reviews": [
             {
-                "id": "r1510",
-                "userId": "u13",
-                "rating": 4.5,
-                "comment": "Good value for money.",
-                "date": "2024-05-08"
+                "id": "r9522",
+                "userId": "u49",
+                "rating": 3.1,
+                "comment": "Perfect for daily use.",
+                "date": "2025-03-26"
             },
             {
-                "id": "r1851",
-                "userId": "u79",
+                "id": "r8276",
+                "userId": "u15",
+                "rating": 4.6,
+                "comment": "Highly recommended!",
+                "date": "2024-05-16"
+            },
+            {
+                "id": "r1427",
+                "userId": "u83",
+                "rating": 4.8,
+                "comment": "Loved it!",
+                "date": "2024-08-25"
+            }
+        ]
+    },
+    {
+        "id": "29570",
+        "name": "Vans Men Classic Slip-On Purple & Black Shoes",
+        "price": 719.44,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/49f884ddf4420d869ad143857d3bc33d_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9772",
+                "userId": "u99",
+                "rating": 4.4,
+                "comment": "Amazing product!",
+                "date": "2025-03-26"
+            },
+            {
+                "id": "r5731",
+                "userId": "u16",
+                "rating": 3.2,
+                "comment": "Good value for money.",
+                "date": "2025-01-12"
+            }
+        ]
+    },
+    {
+        "id": "26538",
+        "name": "ID Men Red Shoes",
+        "price": 1201.14,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/6a6ebc47eaf2fe034bcfd94060a285ba_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5231",
+                "userId": "u12",
+                "rating": 3.8,
+                "comment": "Amazing product!",
+                "date": "2024-11-07"
+            },
+            {
+                "id": "r6515",
+                "userId": "u78",
+                "rating": 3.9,
+                "comment": "Amazing product!",
+                "date": "2025-01-28"
+            },
+            {
+                "id": "r1811",
+                "userId": "u75",
+                "rating": 4.4,
+                "comment": "Perfect for daily use.",
+                "date": "2024-12-07"
+            }
+        ]
+    },
+    {
+        "id": "49495",
+        "name": "Vans Men Khaki Shoes",
+        "price": 1610.71,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Vans-Men-Khaki-Shoes_dcaf7c703e9c0396650529df2b2a8893_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6864",
+                "userId": "u19",
+                "rating": 3.3,
+                "comment": "Amazing product!",
+                "date": "2024-08-27"
+            }
+        ]
+    },
+    {
+        "id": "8574",
+        "name": "Crocs Dora Boots Pink Sandals",
+        "price": 1376.93,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/0be6693dafb4261645b22c6e9e7e67f4_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5531",
+                "userId": "u21",
+                "rating": 3.5,
+                "comment": "Not bad, could be better.",
+                "date": "2024-05-12"
+            },
+            {
+                "id": "r3403",
+                "userId": "u56",
+                "rating": 3.8,
+                "comment": "Amazing product!",
+                "date": "2025-02-22"
+            }
+        ]
+    },
+    {
+        "id": "19123",
+        "name": "Lotto Men XL Water Man Silver Slippers",
+        "price": 720.4,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/69482728a521cbd2ba571e36016d5f63_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2978",
+                "userId": "u55",
+                "rating": 3.7,
+                "comment": "Perfect for daily use.",
+                "date": "2024-09-27"
+            }
+        ]
+    },
+    {
+        "id": "43369",
+        "name": "Reebok Men Black Possession Flip Flops",
+        "price": 861.47,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/647838a2e988ab55b76c9aa9ddd15ad7_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6604",
+                "userId": "u50",
+                "rating": 4.0,
+                "comment": "Amazing product!",
+                "date": "2025-02-14"
+            }
+        ]
+    },
+    {
+        "id": "11940",
+        "name": "Ganuchi Men Casual Black Sandals",
+        "price": 103.77,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/b23f1e70aec0102c360fb9dfdc476023_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2894",
+                "userId": "u29",
+                "rating": 4.3,
+                "comment": "Loved it!",
+                "date": "2024-11-25"
+            }
+        ]
+    },
+    {
+        "id": "19311",
+        "name": "Nike Men Air Rift MTR White Casual Shoe",
+        "price": 972.52,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/ac5a2fb9462db16f4cf5fc0f3616a9e6_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2628",
+                "userId": "u36",
+                "rating": 4.0,
+                "comment": "Loved it!",
+                "date": "2024-05-24"
+            },
+            {
+                "id": "r1903",
+                "userId": "u64",
+                "rating": 3.4,
+                "comment": "Amazing product!",
+                "date": "2024-11-30"
+            }
+        ]
+    },
+    {
+        "id": "49461",
+        "name": "Vans Men Blue Era Scilla Plaid Shoes",
+        "price": 1909.62,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Vans-Men-Blue-Casual-Shoes_f9ad04b071e06c34a04e2c0a047d58a1_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4867",
+                "userId": "u21",
                 "rating": 4.0,
                 "comment": "Not bad, could be better.",
-                "date": "2024-12-17"
+                "date": "2024-07-10"
+            }
+        ]
+    },
+    {
+        "id": "8746",
+        "name": "Crocs Kids Navy Blue Clogs",
+        "price": 408.01,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Crocs-Kids-Navy-Blue-Clogs_dd0334757683ef726ca116cc7b8b6012_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1802",
+                "userId": "u54",
+                "rating": 3.7,
+                "comment": "Amazing product!",
+                "date": "2025-03-09"
+            }
+        ]
+    },
+    {
+        "id": "33648",
+        "name": "Lotto Men Ridge Brown Sandals",
+        "price": 635.74,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/42344fe581af7a4c62d2a39ceb57be24_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6974",
+                "userId": "u70",
+                "rating": 3.2,
+                "comment": "Highly recommended!",
+                "date": "2024-05-21"
+            },
+            {
+                "id": "r4450",
+                "userId": "u97",
+                "rating": 3.3,
+                "comment": "Amazing product!",
+                "date": "2024-05-26"
+            },
+            {
+                "id": "r4061",
+                "userId": "u6",
+                "rating": 4.1,
+                "comment": "Perfect for daily use.",
+                "date": "2024-07-16"
+            }
+        ]
+    },
+    {
+        "id": "49839",
+        "name": "iPanema Women Red Flip Flops",
+        "price": 370.38,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/3101e6784596ba83c3fb728bcf5b6187_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7743",
+                "userId": "u72",
+                "rating": 3.9,
+                "comment": "Not bad, could be better.",
+                "date": "2024-10-16"
+            },
+            {
+                "id": "r4954",
+                "userId": "u21",
+                "rating": 3.1,
+                "comment": "Not bad, could be better.",
+                "date": "2025-03-05"
+            }
+        ]
+    },
+    {
+        "id": "18495",
+        "name": "Puma Men Fashion Cat White Slipper",
+        "price": 1484.52,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/c78acc78b83e4f2e014215d2a302f04b_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9574",
+                "userId": "u97",
+                "rating": 4.1,
+                "comment": "Perfect for daily use.",
+                "date": "2024-07-19"
+            },
+            {
+                "id": "r2866",
+                "userId": "u75",
+                "rating": 4.7,
+                "comment": "Perfect for daily use.",
+                "date": "2024-08-01"
+            },
+            {
+                "id": "r5499",
+                "userId": "u30",
+                "rating": 3.5,
+                "comment": "Good value for money.",
+                "date": "2024-06-15"
+            }
+        ]
+    },
+    {
+        "id": "41866",
+        "name": "Estd. 1977 Men Beige & Green Sandals",
+        "price": 1363.98,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/7adfef9d7001cdcb9a58822c0c8b615f_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5168",
+                "userId": "u24",
+                "rating": 4.3,
+                "comment": "Not bad, could be better.",
+                "date": "2024-11-14"
+            },
+            {
+                "id": "r6779",
+                "userId": "u58",
+                "rating": 4.4,
+                "comment": "Loved it!",
+                "date": "2024-08-25"
+            },
+            {
+                "id": "r9086",
+                "userId": "u85",
+                "rating": 4.5,
+                "comment": "Loved it!",
+                "date": "2024-11-19"
+            }
+        ]
+    },
+    {
+        "id": "44528",
+        "name": "Coolers Men Black Sandals",
+        "price": 1235.29,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/5fdccf41dafc022f36adea9a7df6751c_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1834",
+                "userId": "u29",
+                "rating": 4.1,
+                "comment": "Loved it!",
+                "date": "2024-05-24"
+            },
+            {
+                "id": "r4436",
+                "userId": "u30",
+                "rating": 3.6,
+                "comment": "Good value for money.",
+                "date": "2024-08-23"
+            }
+        ]
+    },
+    {
+        "id": "23849",
+        "name": "ADIDAS Men Black Anzo Breeze Casual Shoes",
+        "price": 98.69,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/aca469db7fbac91473fc2a810461889d_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1766",
+                "userId": "u46",
+                "rating": 3.1,
+                "comment": "Loved it!",
+                "date": "2024-06-12"
+            }
+        ]
+    },
+    {
+        "id": "24250",
+        "name": "Numero Uno Men White Casual Shoes",
+        "price": 1037.73,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/ff82e800185f09437bdd38606dbd4ec6_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8906",
+                "userId": "u62",
+                "rating": 3.6,
+                "comment": "Good value for money.",
+                "date": "2024-12-30"
+            }
+        ]
+    },
+    {
+        "id": "15517",
+        "name": "Rockport Men LLandro Red Casual Shoes",
+        "price": 1360.78,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/0ea0e6130d5d4c093e0e516f9b43ced6_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6386",
+                "userId": "u88",
+                "rating": 4.6,
+                "comment": "Good value for money.",
+                "date": "2025-01-27"
+            },
+            {
+                "id": "r6038",
+                "userId": "u21",
+                "rating": 4.7,
+                "comment": "Loved it!",
+                "date": "2025-01-05"
+            },
+            {
+                "id": "r9098",
+                "userId": "u25",
+                "rating": 4.1,
+                "comment": "Highly recommended!",
+                "date": "2024-05-29"
+            }
+        ]
+    },
+    {
+        "id": "4140",
+        "name": "Skechers Women Green Shoe",
+        "price": 654.69,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/7de650b81e8fd8be54794b6f466f3b8e_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6838",
+                "userId": "u36",
+                "rating": 4.8,
+                "comment": "Loved it!",
+                "date": "2024-08-09"
+            },
+            {
+                "id": "r4977",
+                "userId": "u69",
+                "rating": 4.7,
+                "comment": "Loved it!",
+                "date": "2024-06-19"
+            }
+        ]
+    },
+    {
+        "id": "6425",
+        "name": "Lotto Unisex Canvas Black Check Shoe",
+        "price": 169.63,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/ef0e264ebd347265da9fcf1bdff4b2f5_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6689",
+                "userId": "u70",
+                "rating": 4.9,
+                "comment": "Good value for money.",
+                "date": "2024-11-07"
+            },
+            {
+                "id": "r7949",
+                "userId": "u94",
+                "rating": 5.0,
+                "comment": "Amazing product!",
+                "date": "2024-07-23"
+            },
+            {
+                "id": "r4739",
+                "userId": "u89",
+                "rating": 3.5,
+                "comment": "Good value for money.",
+                "date": "2024-05-04"
+            }
+        ]
+    },
+    {
+        "id": "42270",
+        "name": "Vans Unisex Black & Grey Classic Shoes",
+        "price": 1636.45,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/ea497c53bbc69cb510e3f7b2fe4a7abb_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3061",
+                "userId": "u17",
+                "rating": 4.9,
+                "comment": "Perfect for daily use.",
+                "date": "2025-03-15"
+            },
+            {
+                "id": "r3065",
+                "userId": "u19",
+                "rating": 3.5,
+                "comment": "Amazing product!",
+                "date": "2025-03-24"
+            },
+            {
+                "id": "r9089",
+                "userId": "u3",
+                "rating": 4.1,
+                "comment": "Good value for money.",
+                "date": "2024-06-22"
+            }
+        ]
+    },
+    {
+        "id": "30234",
+        "name": "Numero Uno Men Black Flip Flops",
+        "price": 665.08,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/7b99e89eac30c7d4d78d54c8cc67e35a_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6436",
+                "userId": "u86",
+                "rating": 4.6,
+                "comment": "Amazing product!",
+                "date": "2024-12-10"
+            }
+        ]
+    },
+    {
+        "id": "35574",
+        "name": "Gliders Men Esquire Red Flip Flops",
+        "price": 1058.49,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/9c1df994bfd66e4485b82d0e74066d98_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4507",
+                "userId": "u18",
+                "rating": 3.7,
+                "comment": "Perfect for daily use.",
+                "date": "2024-08-14"
+            }
+        ]
+    },
+    {
+        "id": "32751",
+        "name": "FILA Men Liga II Black Shoes",
+        "price": 990.05,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/ea051d39d65bfdcba994e6cd49061bd7_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6482",
+                "userId": "u67",
+                "rating": 3.0,
+                "comment": "Good value for money.",
+                "date": "2024-06-05"
+            },
+            {
+                "id": "r3103",
+                "userId": "u51",
+                "rating": 3.8,
+                "comment": "Good value for money.",
+                "date": "2024-08-06"
+            },
+            {
+                "id": "r3455",
+                "userId": "u66",
+                "rating": 3.1,
+                "comment": "Not bad, could be better.",
+                "date": "2025-03-30"
+            }
+        ]
+    },
+    {
+        "id": "41859",
+        "name": "Estd. 1977 Men Black Sandals",
+        "price": 740.46,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/2a07ce87fedfca8928f12f3ddf6b7632_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2209",
+                "userId": "u60",
+                "rating": 3.5,
+                "comment": "Amazing product!",
+                "date": "2024-07-08"
+            },
+            {
+                "id": "r5145",
+                "userId": "u36",
+                "rating": 3.7,
+                "comment": "Amazing product!",
+                "date": "2024-05-31"
+            },
+            {
+                "id": "r3929",
+                "userId": "u71",
+                "rating": 4.7,
+                "comment": "Perfect for daily use.",
+                "date": "2025-03-26"
+            }
+        ]
+    },
+    {
+        "id": "21180",
+        "name": "ADIDAS Men Adi Cells Black Flip Flops",
+        "price": 403.89,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/b057c9e8d5ccc63369807a12f67a39ac_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1032",
+                "userId": "u27",
+                "rating": 3.7,
+                "comment": "Loved it!",
+                "date": "2025-02-02"
+            },
+            {
+                "id": "r9796",
+                "userId": "u65",
+                "rating": 4.1,
+                "comment": "Highly recommended!",
+                "date": "2024-08-23"
+            },
+            {
+                "id": "r1838",
+                "userId": "u23",
+                "rating": 4.5,
+                "comment": "Amazing product!",
+                "date": "2025-03-09"
+            }
+        ]
+    },
+    {
+        "id": "39943",
+        "name": "GAS Men Brown Count Casual Shoes",
+        "price": 1315.48,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/f2d705addd04fcf5516aef873254441e_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3316",
+                "userId": "u57",
+                "rating": 3.9,
+                "comment": "Highly recommended!",
+                "date": "2024-07-15"
+            },
+            {
+                "id": "r9092",
+                "userId": "u54",
+                "rating": 4.0,
+                "comment": "Highly recommended!",
+                "date": "2024-10-16"
+            },
+            {
+                "id": "r7417",
+                "userId": "u7",
+                "rating": 3.5,
+                "comment": "Highly recommended!",
+                "date": "2024-11-19"
+            }
+        ]
+    },
+    {
+        "id": "5630",
+        "name": "ADIDAS Women's Adi Groove Blue Flip Flop",
+        "price": 1945.74,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/9234f2dacc377d713b7788f670f7bf9d_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2434",
+                "userId": "u65",
+                "rating": 4.0,
+                "comment": "Perfect for daily use.",
+                "date": "2025-01-07"
+            },
+            {
+                "id": "r3862",
+                "userId": "u5",
+                "rating": 4.1,
+                "comment": "Good value for money.",
+                "date": "2025-02-16"
+            },
+            {
+                "id": "r6414",
+                "userId": "u35",
+                "rating": 3.8,
+                "comment": "Amazing product!",
+                "date": "2025-03-12"
+            }
+        ]
+    },
+    {
+        "id": "44517",
+        "name": "Coolers Men Brown Pokar Flip Flops",
+        "price": 177.21,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Coolers-Men-POKAR-Brown-Flip-Flops_8b247db935e7cfffb8f5a0b8d578f7bf_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6734",
+                "userId": "u40",
+                "rating": 4.1,
+                "comment": "Not bad, could be better.",
+                "date": "2024-12-12"
+            },
+            {
+                "id": "r9039",
+                "userId": "u71",
+                "rating": 4.2,
+                "comment": "Loved it!",
+                "date": "2024-10-01"
+            }
+        ]
+    },
+    {
+        "id": "22705",
+        "name": "Nike Men White Capri II Casual Shoe",
+        "price": 1468.22,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/9f8463e724322e0b47cc9f615acab635_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r7271",
+                "userId": "u80",
+                "rating": 4.7,
+                "comment": "Loved it!",
+                "date": "2025-04-05"
+            }
+        ]
+    },
+    {
+        "id": "22537",
+        "name": "Gas Men Eldorado Tan Casual  Sandals",
+        "price": 1771.42,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/465863ba7b810b5ef6c516fe91c77308_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9063",
+                "userId": "u63",
+                "rating": 4.4,
+                "comment": "Amazing product!",
+                "date": "2024-09-01"
+            },
+            {
+                "id": "r7199",
+                "userId": "u59",
+                "rating": 4.3,
+                "comment": "Amazing product!",
+                "date": "2025-04-11"
+            },
+            {
+                "id": "r3132",
+                "userId": "u57",
+                "rating": 3.9,
+                "comment": "Perfect for daily use.",
+                "date": "2024-12-02"
+            }
+        ]
+    },
+    {
+        "id": "44725",
+        "name": "Lotto Women Coral Elegant Flip Flops",
+        "price": 1663.59,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/839c627c80dba9ac4412db3f35a52bb7_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9667",
+                "userId": "u6",
+                "rating": 4.8,
+                "comment": "Perfect for daily use.",
+                "date": "2024-12-31"
+            },
+            {
+                "id": "r8839",
+                "userId": "u77",
+                "rating": 3.6,
+                "comment": "Amazing product!",
+                "date": "2024-06-02"
+            },
+            {
+                "id": "r4355",
+                "userId": "u95",
+                "rating": 3.1,
+                "comment": "Good value for money.",
+                "date": "2024-11-03"
+            }
+        ]
+    },
+    {
+        "id": "7731",
+        "name": "Puma Men's Winglet II Grey Yellow White Flip Flop",
+        "price": 988.79,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/9473ae18face7603f7bdb4b6fda3d8e2_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6491",
+                "userId": "u60",
+                "rating": 4.8,
+                "comment": "Not bad, could be better.",
+                "date": "2024-11-22"
+            }
+        ]
+    },
+    {
+        "id": "22153",
+        "name": "Lee Cooper Men Brown Casual Sandals",
+        "price": 689.19,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/99808c9bdfee6165a0cec81d0219c1a1_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3377",
+                "userId": "u56",
+                "rating": 4.4,
+                "comment": "Highly recommended!",
+                "date": "2024-11-22"
+            },
+            {
+                "id": "r4751",
+                "userId": "u88",
+                "rating": 3.0,
+                "comment": "Highly recommended!",
+                "date": "2025-02-25"
+            }
+        ]
+    },
+    {
+        "id": "43958",
+        "name": "Puma Men Olive Techno Ind Sandal",
+        "price": 1027.66,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Puma-Men-Olive-Techno-Ind-Sandal_3e7aa0b204f4317a017dfbefe260700b_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3025",
+                "userId": "u55",
+                "rating": 3.5,
+                "comment": "Good value for money.",
+                "date": "2024-09-19"
+            }
+        ]
+    },
+    {
+        "id": "50741",
+        "name": "Red Chief Men Black Shoes",
+        "price": 719.58,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/2dba90668d61bd7dd5e25a02d7612ee3_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r4916",
+                "userId": "u78",
+                "rating": 3.3,
+                "comment": "Loved it!",
+                "date": "2025-02-19"
+            }
+        ]
+    },
+    {
+        "id": "18492",
+        "name": "Puma Men Danny Blue Slipper",
+        "price": 1708.22,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/b5df5f57f0feda7a42510b6ebedf4f4d_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3089",
+                "userId": "u98",
+                "rating": 3.8,
+                "comment": "Not bad, could be better.",
+                "date": "2024-06-13"
+            },
+            {
+                "id": "r6627",
+                "userId": "u9",
+                "rating": 4.5,
+                "comment": "Amazing product!",
+                "date": "2024-05-19"
+            }
+        ]
+    },
+    {
+        "id": "20856",
+        "name": "United Colors of Benetton Men Casual Black Shoes",
+        "price": 608.2,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/fc4d12bcdc99ec17c6cbff23ce164f00_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5276",
+                "userId": "u54",
+                "rating": 3.5,
+                "comment": "Amazing product!",
+                "date": "2024-09-10"
+            },
+            {
+                "id": "r4769",
+                "userId": "u42",
+                "rating": 4.2,
+                "comment": "Amazing product!",
+                "date": "2025-03-07"
+            }
+        ]
+    },
+    {
+        "id": "41861",
+        "name": "Estd. 1977 Men Black Sandals",
+        "price": 926.78,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/b996cb05ae7c16cabfa4cadc23818247_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1678",
+                "userId": "u2",
+                "rating": 4.9,
+                "comment": "Amazing product!",
+                "date": "2025-03-04"
+            },
+            {
+                "id": "r1992",
+                "userId": "u54",
+                "rating": 3.8,
+                "comment": "Amazing product!",
+                "date": "2024-05-11"
+            },
+            {
+                "id": "r7613",
+                "userId": "u59",
+                "rating": 5.0,
+                "comment": "Good value for money.",
+                "date": "2024-10-31"
+            }
+        ]
+    },
+    {
+        "id": "5608",
+        "name": "ADIDAS Men Kendall Black Navy Floater",
+        "price": 175.85,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/f12bab8f2514a0656f81aa863dd966c3_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2991",
+                "userId": "u73",
+                "rating": 4.4,
+                "comment": "Good value for money.",
+                "date": "2024-09-06"
+            },
+            {
+                "id": "r1497",
+                "userId": "u34",
+                "rating": 4.1,
+                "comment": "Amazing product!",
+                "date": "2024-05-26"
+            }
+        ]
+    },
+    {
+        "id": "47198",
+        "name": "Franco Leone Men Brown Sandals",
+        "price": 453.69,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/08be9002361c65ffa2e08a8f12464f56_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1082",
+                "userId": "u55",
+                "rating": 4.7,
+                "comment": "Perfect for daily use.",
+                "date": "2025-04-07"
+            }
+        ]
+    },
+    {
+        "id": "19772",
+        "name": "ADIDAS Men Vigor Blue Casual Shoes",
+        "price": 746.81,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/4ce7d857814ce0fec13e120fe55522c9_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1213",
+                "userId": "u52",
+                "rating": 4.7,
+                "comment": "Amazing product!",
+                "date": "2024-08-12"
+            },
+            {
+                "id": "r3659",
+                "userId": "u3",
+                "rating": 4.8,
+                "comment": "Perfect for daily use.",
+                "date": "2024-10-19"
+            },
+            {
+                "id": "r3493",
+                "userId": "u55",
+                "rating": 3.8,
+                "comment": "Amazing product!",
+                "date": "2024-05-05"
+            }
+        ]
+    },
+    {
+        "id": "11947",
+        "name": "Ganuchi Men Casual Olive Sandals",
+        "price": 98.22,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/464879391de4e1a7b881dad3b7bd83a8_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r3491",
+                "userId": "u56",
+                "rating": 3.4,
+                "comment": "Perfect for daily use.",
+                "date": "2024-05-23"
+            }
+        ]
+    },
+    {
+        "id": "19124",
+        "name": "Lotto Women XL Kelly Pink Slippers",
+        "price": 796.41,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/cd1874ab726cad7a6439f3886af1bd35_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9426",
+                "userId": "u89",
+                "rating": 3.7,
+                "comment": "Not bad, could be better.",
+                "date": "2025-03-28"
+            }
+        ]
+    },
+    {
+        "id": "5896",
+        "name": "Puma Men Cavallino Black Shoe",
+        "price": 1475.85,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/57601ed1977aecafecafbfb1fe49a424_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5211",
+                "userId": "u35",
+                "rating": 3.4,
+                "comment": "Loved it!",
+                "date": "2024-09-05"
+            },
+            {
+                "id": "r6820",
+                "userId": "u16",
+                "rating": 4.4,
+                "comment": "Perfect for daily use.",
+                "date": "2024-12-31"
+            },
+            {
+                "id": "r7571",
+                "userId": "u55",
+                "rating": 3.3,
+                "comment": "Amazing product!",
+                "date": "2024-10-01"
+            }
+        ]
+    },
+    {
+        "id": "49492",
+        "name": "Vans Men Maroon & Grey Era Shoes",
+        "price": 1786.69,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Vans-Men-Maroon---Grey-Era-Shoes_f95fd18a6cf5c1deede9c2a3304cfd2c_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r8862",
+                "userId": "u40",
+                "rating": 3.8,
+                "comment": "Loved it!",
+                "date": "2024-12-27"
+            }
+        ]
+    },
+    {
+        "id": "9031",
+        "name": "Buckaroo Men loma Tan Casual Shoes",
+        "price": 1275.18,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/c42e34c84003a87f8fc0d5694e82d4c3_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5409",
+                "userId": "u69",
+                "rating": 4.4,
+                "comment": "Not bad, could be better.",
+                "date": "2024-06-04"
+            }
+        ]
+    },
+    {
+        "id": "59056",
+        "name": "Carlton London Women Blue & Cream Shoes",
+        "price": 835.27,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Carlton-London-Women-Blue---Cream-Shoes_243d3b1aebc988e696a0ea409daff4bf_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r6251",
+                "userId": "u41",
+                "rating": 4.0,
+                "comment": "Highly recommended!",
+                "date": "2024-12-15"
+            },
+            {
+                "id": "r1136",
+                "userId": "u69",
+                "rating": 3.1,
+                "comment": "Loved it!",
+                "date": "2024-10-27"
+            },
+            {
+                "id": "r2367",
+                "userId": "u42",
+                "rating": 4.9,
+                "comment": "Not bad, could be better.",
+                "date": "2024-10-05"
+            }
+        ]
+    },
+    {
+        "id": "15379",
+        "name": "Fila Men Lobato Black Casual Shoes",
+        "price": 1298.97,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/593368a3e9649a12de803e50fa2ed17a_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2872",
+                "userId": "u20",
+                "rating": 4.8,
+                "comment": "Highly recommended!",
+                "date": "2025-03-29"
+            },
+            {
+                "id": "r9817",
+                "userId": "u24",
+                "rating": 4.2,
+                "comment": "Loved it!",
+                "date": "2024-07-23"
+            }
+        ]
+    },
+    {
+        "id": "19927",
+        "name": "ADIDAS Men Receptor Grey Sandals",
+        "price": 1743.26,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/3fa8e7f3bd3eeb217a8cb060d1db2567_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9053",
+                "userId": "u26",
+                "rating": 4.9,
+                "comment": "Highly recommended!",
+                "date": "2024-12-16"
+            }
+        ]
+    },
+    {
+        "id": "3998",
+        "name": "Spalding Men's Black and White Graphic Flip Flop",
+        "price": 679.5,
+        "description": "Experience the best of Footwear with this Flip Flops, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/91352b9549b9c0d570180dd1be12738d_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r2574",
+                "userId": "u51",
+                "rating": 3.4,
+                "comment": "Perfect for daily use.",
+                "date": "2025-03-05"
+            }
+        ]
+    },
+    {
+        "id": "19329",
+        "name": "Puma Men Standpunkt Brown Casual Shoes",
+        "price": 1686.31,
+        "description": "Experience the best of Footwear with this Casual Shoes, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/bcb01252e8d12d743d85d0001586fee0_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r9337",
+                "userId": "u35",
+                "rating": 3.0,
+                "comment": "Good value for money.",
+                "date": "2024-05-03"
+            },
+            {
+                "id": "r2062",
+                "userId": "u86",
+                "rating": 3.5,
+                "comment": "Perfect for daily use.",
+                "date": "2024-07-23"
+            }
+        ]
+    },
+    {
+        "id": "11978",
+        "name": "FILA Men Aruba Navy Blue Sandal",
+        "price": 1961.6,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/5c439c0c29672ff85b3aaafb66a43ae8_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r1554",
+                "userId": "u68",
+                "rating": 3.5,
+                "comment": "Good value for money.",
+                "date": "2024-08-11"
+            }
+        ]
+    },
+    {
+        "id": "35587",
+        "name": "Gliders Men Brown Leather Sandals",
+        "price": 263.74,
+        "description": "Experience the best of Footwear with this Sandals, ideal for Casual.",
+        "images": [
+            "http://assets.myntassets.com/v1/images/style/properties/Gliders-Men-Brown-Leather-Sandals_95633c99c7d10aa8995f5c3d6920374d_images.jpg"
+        ],
+        "reviews": [
+            {
+                "id": "r5952",
+                "userId": "u49",
+                "rating": 4.4,
+                "comment": "Good value for money.",
+                "date": "2024-10-26"
+            },
+            {
+                "id": "r1344",
+                "userId": "u41",
+                "rating": 4.1,
+                "comment": "Amazing product!",
+                "date": "2024-08-21"
             }
         ]
     }
